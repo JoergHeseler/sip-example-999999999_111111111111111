@@ -1,0 +1,25 @@
+Source-Organization: SLUB Dresden
+Organization-Address: kitodo@slub-dresden.de
+External-Identifier: 801878
+External-Identifier: http://digital.slub-dresden.de/id395202019-18280000
+External-Identifier: urn:nbn:de:bsz:14-db-id395202019-182800001
+Title: Neuer Königl. Sächs. allergn. concessionirter Dresdner historischer
+  Stadt- und Land-Kalender / 1828
+LDP-funder: LDP Sachsen
+LDP-lender: SLUB Dresden
+LDP-collection: Saxonica
+LDP-collection: LDP: SLUB
+LDP-project: LDP: SLUB
+SLUBArchiv-sipVersion: v2020.1
+SLUBArchiv-externalWorkflow: kitodo
+SLUBArchiv-externalId: 801878
+SLUBArchiv-externalIsilId: DE-14
+SLUBArchiv-exportToArchiveDate: 2024-05-02T12:49:01+02:00
+SLUBArchiv-hasConservationReason: false
+SLUBArchiv-archivalValueDescription: Archivierung erfolgt laut gesetzlichem
+  Auftrag der SLUB Dresden.
+SLUBArchiv-rightsVersion: 1.0
+DateIssued: 1828
+Payload-Oxum: 1547948041.171
+Bag-Size: 1.44 GB
+Bagging-Date: 2024-05-02

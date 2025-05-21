@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mods:extension xmlns:decor="http://example.org/decor" xmlns:mods="http://www.loc.gov/mods/v3">
+  <decor:colorMix>
+    <decor:name>Porzellanweiß warm</decor:name>
+    <decor:components>
+      <decor:component name="Zinnoxid" ratio="90%"/>
+      <decor:component name="Antimonoxid" ratio="10%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Olivgrün dunkel</decor:name>
+    <decor:components>
+      <decor:component name="Chromoxid" ratio="70%"/>
+      <decor:component name="Eisenoxid" ratio="30%"/>
+    </decor:components>
+    <decor:technique>Unterglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Eisenrot</decor:name>
+    <decor:components>
+      <decor:component name="Eisenoxid" ratio="85%"/>
+      <decor:component name="Siliciumdioxid" ratio="15%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Porzellanweiß kühl</decor:name>
+    <decor:components>
+      <decor:component name="Zinnoxid" ratio="95%"/>
+      <decor:component name="Quarz" ratio="5%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Kobaltblau</decor:name>
+    <decor:components>
+      <decor:component name="Kobaltoxid" ratio="80%"/>
+      <decor:component name="Zinnoxid" ratio="20%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Chromgrün</decor:name>
+    <decor:components>
+      <decor:component name="Chromoxid" ratio="90%"/>
+      <decor:component name="Zinkoxid" ratio="10%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Braun</decor:name>
+    <decor:components>
+      <decor:component name="Manganoxid" ratio="60%"/>
+      <decor:component name="Eisenoxid" ratio="40%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Graublau</decor:name>
+    <decor:components>
+      <decor:component name="Kobaltoxid" ratio="50%"/>
+      <decor:component name="Nickeloxid" ratio="50%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Violett</decor:name>
+    <decor:components>
+      <decor:component name="Manganoxid" ratio="70%"/>
+      <decor:component name="Kobaltoxid" ratio="30%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+  <decor:colorMix>
+    <decor:name>Ockergelb</decor:name>
+    <decor:components>
+      <decor:component name="Eisenoxid" ratio="60%"/>
+      <decor:component name="Antimonoxid" ratio="40%"/>
+    </decor:components>
+    <decor:technique>Aufglasurmalerei</decor:technique>
+  </decor:colorMix>
+</mods:extension>

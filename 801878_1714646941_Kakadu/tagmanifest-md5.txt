@@ -1,0 +1,6 @@
+e69b2ffc43549dd2883388789bbe18ab bag-info.txt
+eaa2c609ff6371712f623f5531945b44 bagit.txt
+d54b2bb9ead2c96abd45748bc4286edb manifest-md5.txt
+1e20f4d88420219364a94fadd83d4334 manifest-sha512.txt
+71d69d99b67e89f7018664e21ed4f288 meta/rights.xml
+28c9049ded1d0f02a348f5e295a615d2 meta/sigprops_kitodo.xml

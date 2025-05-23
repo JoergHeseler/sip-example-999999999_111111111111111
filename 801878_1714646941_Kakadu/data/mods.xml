@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+  <titleInfo>
+    <title>Kakadu</title>
+  </titleInfo>
+  <identifier type="local">801878_1714646941_KAKADU</identifier>
+  <name type="personal">
+    <namePart>Johann Joachim Kändler</namePart>
+    <role>
+      <roleTerm type="text">Modelleur</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Meissen</placeTerm>
+    </place>
+    <dateCreated>1734</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <note>Porzellanfigur, mit Unter- und Aufglasurbemalung, glasiert, dekoriert</note>
+  </physicalDescription>
+  <typeOfResource>three dimensional object</typeOfResource>
+  <extension>
+    <rights>Siehe meta/rights.xml</rights>
+    <sigProps>Siehe meta/sigprops_meissen_porcelain_for_reproduction.xml</sigProps>
+  </extension>
+</mods>

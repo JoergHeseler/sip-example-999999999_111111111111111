@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<slubarchiv:rightsRecord xmlns:slubarchiv="http://slubarchiv.slub-dresden.de/rights1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://slubarchiv.slub-dresden.de/rights1 https://slubarchiv.slub-dresden.de/slubarchiv/standards/rights/rights1.xsd">
-  <slubarchiv:copyrightStatus>publicdomain</slubarchiv:copyrightStatus>
-</slubarchiv:rightsRecord>
+<rights:rightsDeclaration xmlns:rights="http://slubarchiv.slub-dresden.de/rights1"
+    xsi:schemaLocation="http://slubarchiv.slub-dresden.de/rights1 https://slubarchiv.slub-dresden.de/slubarchiv/standards/rights/rights1.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!-- Rechteinformation zur Figur: Kakadu von Johann Joachim Kändler, 1734 -->
+
+  <rights:copyrightStatus>copyrighted</rights:copyrightStatus>
+
+  <rights:rightsHolder>
+    <rights:holderName>Porzellanmanufaktur Meissen</rights:holderName>
+  </rights:rightsHolder>
+
+  <rights:permissions>
+    <rights:accessRestriction type="closed">Zugriff nur für Zwecke der digitalen Langzeitarchivierung. Keine öffentliche Nachnutzung.</rights:accessRestriction>
+  </rights:permissions>
+
+  <rights:contract>
+    <rights:contractPartner>SLUBArchiv</rights:contractPartner>
+    <rights:contractDate>2024-03-01</rights:contractDate>
+    <rights:contractDescription>SLUBArchiv übernimmt die digitale Langzeitarchivierung der Figur in Abstimmung mit der Porzellanmanufaktur Meissen.</rights:contractDescription>
+  </rights:contract>
+
+  <rights:legalRestrictions>
+    <rights:heritageProtection>
+      Das Objekt unterliegt dem Schutz von Kulturgut. Jegliche Nutzung ist mit der Porzellanmanufaktur Meissen abzustimmen.
+    </rights:heritageProtection>
+  </rights:legalRestrictions>
+
+</rights:rightsDeclaration>

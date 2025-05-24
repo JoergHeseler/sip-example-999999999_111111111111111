@@ -10,6 +10,68 @@
   PROFILE="SLUBArchiv SIP 1.0"
   LABEL="Porzellanfigur Kakadu von Johann Joachim Kändler">
 
+
+  <mets:dmdSec ID="dmd1">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.7">
+          <mods:titleInfo>
+            <mods:title>Kakadu</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal">
+            <mods:namePart>Johann Joachim Kändler</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Modellierer</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+          <mods:genre>Porzellanfigur</mods:genre>
+          <mods:originInfo>
+            <mods:place>
+              <mods:placeTerm type="text">Meißner Porzellanmanufaktur</mods:placeTerm>
+            </mods:place>
+            <mods:dateCreated encoding="w3cdtf">1734</mods:dateCreated>
+          </mods:originInfo>
+          <mods:physicalDescription>
+            <mods:extent>H. 35,5 cm, B. 41,0 cm, T. 18,9 cm</mods:extent>
+            <mods:form authority="local">Porzellan</mods:form>
+          </mods:physicalDescription>
+          <mods:note>Für die königliche Porzellanmenagerie im Japanischen Palais</mods:note>
+          <mods:identifier type="local">No. 216</mods:identifier>
+          <mods:location>
+            <mods:physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</mods:physicalLocation>
+          </mods:location>
+          <mods:language>
+            <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+          </mods:language>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+
+
+  <mets:amdSec ID="amd1">
+    <mets:rightsMD>
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="SLUBRights">
+        <mets:xmlData>
+          <rights:RightsDeclaration xmlns:rights="http://slubarchiv.slub-dresden.de/rights1">
+            <rights:RightsBasis>copyrighted</rights:RightsBasis>
+            <rights:CopyrightOwner>
+              <rights:OwnerName>Porzellanmanufaktur Meissen</rights:OwnerName>
+            </rights:CopyrightOwner>
+            <rights:AccessRightsRestriction>geschlossen</rights:AccessRightsRestriction>
+            <rights:GrantedRights>
+              <rights:GrantedPermission>digital_preservation</rights:GrantedPermission>
+              <rights:GrantedPermission>reproduction</rights:GrantedPermission>
+            </rights:GrantedRights>
+            <rights:OtherRightsInformation>SLUBArchiv, 1.3.2024, zuständig für digitale
+              Langzeitarchivierung</rights:OtherRightsInformation>
+          </rights:RightsDeclaration>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+
   <mets:fileSec>
     <mets:fileGrp USE="images">
       <mets:file ID="photo10" MIMETYPE="image/tiff">

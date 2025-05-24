@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           targetNamespace="http://example.org/decor"
-           xmlns:decor="http://example.org/decor"
+           targetNamespace="http://nfdi4culture.de/decor1"
+           xmlns:decor="http://nfdi4culture.de/decor1"
            elementFormDefault="qualified"
            attributeFormDefault="unqualified">
 

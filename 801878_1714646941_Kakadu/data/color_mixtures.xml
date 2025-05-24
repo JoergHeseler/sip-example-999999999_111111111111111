@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<decor:colorMixtures xmlns:decor="http://example.org/decor"
+<decor:colorMixtures xmlns:decor="http://nfdi4culture.de/decor1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://example.org/decor color_mixtures.xsd">
+  xsi:schemaLocation="http://nfdi4culture.de/decor1 color_mixtures.xsd">
 
   <decor:colorMix id="color001">
     <decor:name>Porzellanweiß warm</decor:name>

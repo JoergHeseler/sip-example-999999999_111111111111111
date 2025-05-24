@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <mods xmlns="http://www.loc.gov/mods/v3"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"
+      lang="de">
   <titleInfo>
     <title>Kakadu</title>
   </titleInfo>
   <identifier type="local">801878_1714646941_KAKADU</identifier>
+  <identifier type="inventoryNumber">PE 10</identifier>
   <name type="personal">
     <namePart>Johann Joachim Kändler</namePart>
     <role>
       <roleTerm type="text">Modelleur</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Meißner Porzellanmanufaktur</namePart>
+    <role>
+      <roleTerm type="text">Werkstatt</roleTerm>
     </role>
   </name>
   <originInfo>
@@ -19,8 +27,15 @@
     <dateCreated>1734</dateCreated>
   </originInfo>
   <physicalDescription>
-    <note>Porzellanfigur, mit Unter- und Aufglasurbemalung, glasiert, dekoriert</note>
+    <form>Porzellan</form>
+    <extent>H. 35,5 cm, B. 41,0 cm, T. 18,9 cm</extent>
+    <note>Aufglasurfarben</note>
+    <note>Markierung: No. 216</note>
   </physicalDescription>
+  <location>
+    <physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</physicalLocation>
+  </location>
+  <note type="provenance">Für die königliche Porzellanmenagerie im Japanischen Palais</note>
   <typeOfResource>three dimensional object</typeOfResource>
   <extension>
     <rights>Siehe meta/rights.xml</rights>

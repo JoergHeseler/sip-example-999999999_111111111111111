@@ -1,114 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:mods="http://www.loc.gov/mods/v3"
-  xmlns:rights="http://cosimo.staatsbibliothek-berlin.de/schema/rights/"
-  xmlns:slub="http://www.slub-dresden.de/schemas/mets/" OBJID="801878_1714646941_Kakadu" TYPE="SIP"
-  PROFILE="SLUBArchiv SIP 1.0" LABEL="Porzellanfigur Kakadu von Johann Joachim Kändler">
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:rights="http://slubarchiv.slub-dresden.de/rights1"
+           xmlns:slub="http://www.slub-dresden.de/schemas/mets/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
+           OBJID="801878_1714646941_Kakadu"
+           TYPE="SIP"
+           PROFILE="SLUBArchiv SIP 1.0"
+           LABEL="Porzellanfigur Kakadu von Johann Joachim Kändler">
+
+  <!-- Descriptive Metadata -->
   <mets:dmdSec ID="dmd1">
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
-        <mods:mods>
+        <mods:mods version="3.7" xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="de">
           <mods:titleInfo>
             <mods:title>Kakadu</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">801878_1714646941_Kakadu</mods:identifier>
           <mods:name type="personal">
             <mods:namePart>Johann Joachim Kändler</mods:namePart>
-            <mods:role>
-              <mods:roleTerm type="text">Modelleur</mods:roleTerm>
-            </mods:role>
+            <mods:role><mods:roleTerm type="text">Modelleur</mods:roleTerm></mods:role>
           </mods:name>
           <mods:originInfo>
-            <mods:place>
-              <mods:placeTerm type="text">Meissen</mods:placeTerm>
-            </mods:place>
+            <mods:place><mods:placeTerm type="text">Meißner Porzellanmanufaktur</mods:placeTerm></mods:place>
             <mods:dateCreated>1734</mods:dateCreated>
           </mods:originInfo>
           <mods:physicalDescription>
+            <mods:form authority="material">Porzellan</mods:form>
             <mods:extent>H. 35,5 cm, B. 41,0 cm, T. 18,9 cm</mods:extent>
+            <mods:note>Bemalung: Aufglasurfarben</mods:note>
           </mods:physicalDescription>
+          <mods:identifier type="local">PE 10</mods:identifier>
           <mods:location>
-            <mods:physicalLocation>Porzellansammlung, SKD Dresden</mods:physicalLocation>
+            <mods:physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</mods:physicalLocation>
           </mods:location>
+          <mods:note>Herstellungszweck: Für die königliche Porzellanmenagerie im Japanischen Palais</mods:note>
         </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
   </mets:dmdSec>
+
+  <!-- Administrative Metadata -->
   <mets:amdSec ID="amd1">
     <mets:rightsMD ID="rights1">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="SLUBArchivRights">
         <mets:xmlData>
-          <rights:rightsDeclaration>
+          <rights:rightsDeclaration xmlns:rights="http://slubarchiv.slub-dresden.de/rights1">
             <rights:copyrightStatus>copyrighted</rights:copyrightStatus>
-            <rights:accessRights>geschlossen</rights:accessRights>
             <rights:rightsHolder>
-              <rights:name>Porzellanmanufaktur Meissen</rights:name>
+              <rights:holderName>Porzellanmanufaktur Meissen</rights:holderName>
+              <rights:holderContact>info@meissen.com</rights:holderContact>
             </rights:rightsHolder>
+            <rights:permissions>
+              <rights:accessRestriction type="closed">Zugriff ausschließlich für Zwecke der digitalen Langzeitarchivierung.</rights:accessRestriction>
+            </rights:permissions>
+            <rights:contract>
+              <rights:contractPartner>SLUBArchiv</rights:contractPartner>
+              <rights:contractDate>2024-03-01</rights:contractDate>
+              <rights:contractDescription>Das SLUBArchiv ist zuständig für die digitale Langzeitarchivierung der Figur.</rights:contractDescription>
+            </rights:contract>
+            <rights:legalRestrictions>
+              <rights:heritageProtection>Das Objekt unterliegt dem Schutz von Kulturgut.</rights:heritageProtection>
+            </rights:legalRestrictions>
           </rights:rightsDeclaration>
         </mets:xmlData>
       </mets:mdWrap>
     </mets:rightsMD>
   </mets:amdSec>
+
+  <!-- File Section (abgespeckt für Demo) -->
   <mets:fileSec>
-    <mets:fileGrp USE="3D">
-      <mets:file ID="gltf1" MIMETYPE="model/gltf+json" CHECKSUM="d3f6..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL"
-          xlink:href="data/clay_parts/clay_part001/processed_meshes/model_gltf/model.gltf"
-          xlink:type="simple" />
+    <mets:fileGrp USE="metadata">
+      <mets:file ID="mods1" MIMETYPE="text/xml">
+        <mets:FLocat xlink:href="mods.xml" xlink:type="simple"/>
       </mets:file>
-      <mets:file ID="stl1" MIMETYPE="model/stl" CHECKSUM="e7c8..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL"
-          xlink:href="data/clay_parts/clay_part001/processed_meshes/model_stl/model.stl"
-          xlink:type="simple" />
+      <mets:file ID="rights1" MIMETYPE="text/xml">
+        <mets:FLocat xlink:href="../meta/rights.xml" xlink:type="simple"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="Scans">
-      <mets:file ID="scan1" MIMETYPE="application/e57" CHECKSUM="abc1..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL"
-          xlink:href="data/clay_parts/clay_part001/scans/processed_scans/scans_e57/scan.e57"
-          xlink:type="simple" />
-      </mets:file>
-    </mets:fileGrp>
-    <mets:fileGrp USE="Fotos-Gesamt">
-      <mets:file ID="foto_full1" MIMETYPE="image/tiff" CHECKSUM="1122..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL" xlink:href="data/full_view_photos/photos_tif/00000001.tif"
-          xlink:type="simple" />
-      </mets:file>
-    </mets:fileGrp>
-    <mets:fileGrp USE="Fotos-Dekor">
-      <mets:file ID="foto_dekor1" MIMETYPE="image/tiff" CHECKSUM="3344..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL" xlink:href="data/painting_reference_photos/00000001.tif"
-          xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="icc1" MIMETYPE="application/vnd.iccprofile" CHECKSUM="5566..."
-        CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL" xlink:href="data/painting_reference_photos/standard_profile.icc"
-          xlink:type="simple" />
-      </mets:file>
-    </mets:fileGrp>
-    <mets:fileGrp USE="Metadaten">
-      <mets:file ID="mods1" MIMETYPE="application/xml" CHECKSUM="aa11..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL" xlink:href="data/mods.xml" xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="rights1" MIMETYPE="application/xml" CHECKSUM="bb22..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL" xlink:href="meta/rights.xml" xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="sigprops1" MIMETYPE="application/xml" CHECKSUM="cc33..." CHECKSUMTYPE="SHA-512">
-        <mets:FLocat LOCTYPE="URL" xlink:href="meta/sigprops_meissen_porcelain_for_reproduction.xml"
-          xlink:type="simple" />
+    <mets:fileGrp USE="color-mixes">
+      <mets:file ID="colors1" MIMETYPE="text/xml">
+        <mets:FLocat xlink:href="color_mixtures.xml" xlink:type="simple"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
-  <mets:structMap TYPE="physical">
-    <mets:div TYPE="object" LABEL="Kakadu">
-      <mets:div TYPE="3D" LABEL="glTF Modell">
-        <mets:fptr FILEID="gltf1" />
+
+  <!-- StructMap (einfaches logisches Mapping) -->
+  <mets:structMap TYPE="logical">
+    <mets:div TYPE="object" LABEL="Porzellanfigur Kakadu">
+      <mets:div TYPE="metadata" LABEL="MODS">
+        <mets:fptr FILEID="mods1"/>
       </mets:div>
-      <mets:div TYPE="Scan" LABEL="E57 Scan">
-        <mets:fptr FILEID="scan1" />
+      <mets:div TYPE="rights" LABEL="Rights">
+        <mets:fptr FILEID="rights1"/>
       </mets:div>
-      <mets:div TYPE="Foto" LABEL="Dekorfoto">
-        <mets:fptr FILEID="foto_dekor1" />
+      <mets:div TYPE="colors" LABEL="Farbreferenzen">
+        <mets:fptr FILEID="colors1"/>
       </mets:div>
     </mets:div>
   </mets:structMap>

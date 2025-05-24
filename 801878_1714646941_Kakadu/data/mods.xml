@@ -1,82 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.7"
-  xmlns:xlink="http://www.w3.org/1999/xlink" lang="de">
-  <mods:identifier type="local">801878_1714646941_Kakadu</mods:identifier>
-  <mods:identifier type="inventoryNumber">PE 10</mods:identifier>
-  <mods:titleInfo>
-    <mods:title>Kakadu</mods:title>
-  </mods:titleInfo>
-  <mods:name type="personal">
-    <mods:namePart>Johann Joachim Kändler</mods:namePart>
-    <mods:role>
-      <mods:roleTerm type="text">Modelleur</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name type="corporate">
-    <mods:namePart>Meißner Porzellanmanufaktur</mods:namePart>
-    <mods:role>
-      <mods:roleTerm type="text">Werkstatt</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm type="text">Meißen</mods:placeTerm>
-    </mods:place>
-    <mods:dateCreated>1734</mods:dateCreated>
-    <mods:purpose>Für die königliche Porzellanmenagerie im Japanischen Palais</mods:purpose>
-  </mods:originInfo>
-  <!-- Muss für die Beschreibung einer Porzellan ein eigenes XSD-Schema definiert werden? -->
-  <mods:physicalDescription>
-    <mods:form authority="gnd">Porzellanfigur</mods:form>
-    <mods:extent>H. 35,5 cm, B. 41,0 cm, T. 18,9 cm</mods:extent>
-    <mods:note>Material: Porzellan</mods:note>
-    <mods:note>Bemalung: Aufglasurfarben</mods:note>
-    <mods:note>Gewicht: nicht angegeben</mods:note>
-    <mods:note>Sockelboden: geschlossen</mods:note>
-    <mods:note>Scherbenstärke: 0,7cm</mods:note>
-    <mods:note>Scherbenfarbe: Weiß</mods:note>
-    <mods:note>Glasurdicke: 2mm</mods:note>
-    <mods:note>glasierte Bereiche: gesamte Figur ohne Boden</mods:note>
-    <mods:note>Glasurfarbe: Weiß</mods:note>
-    <mods:note>Glasurtransparenz: 98%</mods:note>
-  </mods:physicalDescription>
-  <mods:note type="marking">Markierung: No. 216 (handgeschrieben)</mods:note>
-  <mods:note type="decor">Dekore vollständig fotografisch dokumentiert, Farbnummern dokumentiert,
-    ICC-Profile referenziert</mods:note>
-  <mods:note type="technical">Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen</mods:note>
-  <mods:note type="technical">15 Tonteile als E57 (roh/überarbeitet), glTF und STL vorliegend</mods:note>
-  <mods:note type="technical">Scanner: SLP, Software: nicht spezifiziert</mods:note>
-  <mods:note type="technical">Modellierungssoftware: nicht spezifiziert</mods:note>
-  <mods:note type="technical">Drucker/Slicer: nicht spezifiziert</mods:note>
-  <mods:note type="digitalOrigin">Digitale Repräsentation zur Reproduktion</mods:note>
-  <mods:relatedItem type="isReferencedBy">
-    <mods:titleInfo>
-      <mods:title>SKD Online Collection – Objektkatalog</mods:title>
-    </mods:titleInfo>
-    <mods:location>
-      <mods:url>https://skd-online-collection.skd.museum/Details/Index/118580</mods:url>
-    </mods:location>
-  </mods:relatedItem>
-  <mods:location>
-    <mods:physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</mods:physicalLocation>
-  </mods:location>
-  <mods:recordInfo>
-    <mods:recordContentSource>SLUB Dresden</mods:recordContentSource>
-    <mods:recordCreationDate encoding="w3cdtf">2024-03-01</mods:recordCreationDate>
-    <mods:languageOfCataloging>
-      <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
-    </mods:languageOfCataloging>
-  </mods:recordInfo>
+<?xml version='1.0' encoding='UTF-8'?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:meissen="http://example.org/meissen" version="3.7" lang="de">
+  <identifier type="local">801878_1714646941_Kakadu</identifier>
+  <identifier type="inventoryNumber">PE 10</identifier>
+  <titleInfo>
+    <title>Kakadu</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Johann Joachim Kändler</namePart>
+    <role>
+      <roleTerm type="text">Modelleur</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Meißner Porzellanmanufaktur</namePart>
+    <role>
+      <roleTerm type="text">Werkstatt</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Meißen</placeTerm>
+    </place>
+    <dateCreated>1734</dateCreated>
+    <purpose>Für die königliche Porzellanmenagerie im Japanischen Palais</purpose>
+  </originInfo>
+  <typeOfResource collection="yes">mixed material</typeOfResource>
+  <relatedItem type="isReferencedBy">
+    <titleInfo>
+      <title>SKD Online Collection – Objektkatalog</title>
+    </titleInfo>
+    <location>
+      <url>https://skd-online-collection.skd.museum/Details/Index/118580</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="otherFormat">
+    <titleInfo>
+      <title>Rechteeinschätzung gemäß SLUBRights</title>
+    </titleInfo>
+    <location>
+      <url>meta/rights.xml</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="otherFormat">
+    <titleInfo>
+      <title>Signifikante Eigenschaften</title>
+    </titleInfo>
+    <location>
+      <url>meta/sigprops_meissen_porcelain_for_reproduction.xml</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</physicalLocation>
+  </location>
+  <recordInfo>
+    <recordContentSource>SLUB Dresden</recordContentSource>
+    <recordCreationDate encoding="w3cdtf">2024-03-01</recordCreationDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
   <extension>
-    <colorMixes>Siehe color_mixtures.xml</colorMixes>
-    <paintingTechnique>Aufglasur</paintingTechnique>
-    <decorationPhotos>data/painting_reference_photos/photos_tif/</decorationPhotos>
-    <iccProfile>data/painting_reference_photos/standard_profile.icc</iccProfile>
-    <overviewPhotos>data/full_view_photos/photos_tif/</overviewPhotos>
-    <iccProfile>data/full_view_photos/standard_profile.icc</iccProfile>
-    <glazeThickness>0,2 mm</glazeThickness>
-    <glazeColor>transparent</glazeColor>
-    <glazeTransparency>hoch</glazeTransparency>
-    <glazedAreas>komplett glasiert, ohne Sockel</glazedAreas>
+    <meissen:physicalDescription>
+      <meissen:form authority="gnd">Porzellanfigur</meissen:form>
+      <meissen:extent>
+        <meissen:height unit="centimeter">35.5</meissen:height>
+        <meissen:width unit="centimeter">41.0</meissen:width>
+        <meissen:depth unit="centimeter">18.9</meissen:depth>
+      </meissen:extent>
+      <meissen:decorationType>Aufglasurfarben</meissen:decorationType>
+      <meissen:foot type="closed" />
+      <meissen:sherd>
+        <meissen:thickness unit="cm">0.7</meissen:thickness>
+        <meissen:color>Weiß</meissen:color>
+        <meissen:material>Porzellan</meissen:material>
+      </meissen:sherd>
+      <meissen:glaze>
+        <meissen:thickness unit="mm">2</meissen:thickness>
+        <meissen:color>Weiß</meissen:color>
+        <meissen:transparency unit="percent">98</meissen:transparency>
+        <meissen:areas>gesamte Figur ohne Boden</meissen:areas>
+      </meissen:glaze>
+      <meissen:baseMarking>No. 216 (handgeschrieben)</meissen:baseMarking>
+      <meissen:purpose>Digitale Repräsentation zur Reproduktion</meissen:purpose>
+      <meissen:decorPhotos photoPath="painting_reference_photos/" iccProfile="standard_profile.icc"
+        colorMixtures="color_mixtures.xml"
+        description="Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen" />
+      <meissen:overviewPhotos photoPath="painting_reference_photos"
+        iccProfile="standard_profile.icc"
+        description="Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen" />
+      <meissen:scanData scanPath="" meshesPath=""
+        description="15 Tonteile als E57 (roh/überarbeitet), glTF und STL vorliegend" />
+    </meissen:physicalDescription>
+    <meissen:technicalWorkflow>
+      <meissen:scanning>
+        <meissen:scannerDevice name="GOM ATOS Q" />
+        <meissen:scannerSoftware name=" GOM Inspect Pro" version=" 2023" />
+        <meissen:scannerSettings resolutionInMegapixel=" 12" pointDistanceInMillimeter=" 0.04" />
+      </meissen:scanning>
+      <meissen:modelling>
+        <meissen:modellingSoftware name=" MeshLab" version=" 2022.02" />
+        <meissen:modellingProcessingSteps>manuelle Netzreparatur, Glättung, Ausrichtung</meissen:modellingProcessingSteps>
+      </meissen:modelling>
+      <meissen:printing>
+        <meissen:printerDevice name="Original Prusa SL1S SPEED" />
+        <meissen:printerMaterial name="Prusament Tough Resin" />
+        <meissen:printerSettings layerThicknessInMillimete=" 0.025" temperatureInCelsius=" 25" />
+      </meissen:printing>
+      <meissen:slicing>
+        <meissen:slicerSoftware name=" PrusaSlicer" version=" 2.6.1" />
+        <meissen:slicerSettings infillPercentage=" 100" supports=" Activated"
+          exposureTimeInSeconds=" 2.5" />
+      </meissen:slicing>
+    </meissen:technicalWorkflow>
   </extension>
-</mods:mods>
+</mods>

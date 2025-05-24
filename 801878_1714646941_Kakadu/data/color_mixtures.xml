@@ -1,5 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mods:extension xmlns:decor="http://example.org/decor" xmlns:mods="http://www.loc.gov/mods/v3">
+<?xml version="1.0" encoding="UTF-8"?>
+<decor:colorMixtures xmlns:decor="http://example.org/decor"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.org/decor color_mixtures.xsd">
+
   <decor:colorMix id="color001">
     <decor:name>Porzellanweiß warm</decor:name>
     <decor:components>
@@ -7,7 +10,11 @@
       <decor:component name="Antimonoxid" ratio="10%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
-  <decor:applicationArea>Federkörper</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Federkörper</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color002">
     <decor:name>Olivgrün dunkel</decor:name>
     <decor:components>
@@ -15,7 +22,11 @@
       <decor:component name="Eisenoxid" ratio="30%" />
     </decor:components>
     <decor:technique>Unterglasurmalerei</decor:technique>
-  <decor:applicationArea>Flügelfedern</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Flügelfedern</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color003">
     <decor:name>Eisenrot</decor:name>
     <decor:components>
@@ -23,7 +34,11 @@
       <decor:component name="Siliciumdioxid" ratio="15%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
-  <decor:applicationArea>Kamm</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Kamm</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color004">
     <decor:name>Porzellanweiß kühl</decor:name>
     <decor:components>
@@ -31,7 +46,11 @@
       <decor:component name="Quarz" ratio="5%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
-  <decor:applicationArea>Bauch</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Bauch</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color005">
     <decor:name>Kobaltblau</decor:name>
     <decor:components>
@@ -39,7 +58,11 @@
       <decor:component name="Zinnoxid" ratio="20%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
-  <decor:applicationArea>Augenring</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Augenring</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color006">
     <decor:name>Chromgrün</decor:name>
     <decor:components>
@@ -47,7 +70,11 @@
       <decor:component name="Zinkoxid" ratio="10%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
-  <decor:applicationArea>Blätter</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Blätter</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color007">
     <decor:name>Braun</decor:name>
     <decor:components>
@@ -55,7 +82,11 @@
       <decor:component name="Eisenoxid" ratio="40%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
-  <decor:applicationArea>Ast</decor:applicationArea></decor:colorMix>
+    <decor:applicationAreas>
+      <decor:area>Ast</decor:area>
+    </decor:applicationAreas>
+  </decor:colorMix>
+
   <decor:colorMix id="color008">
     <decor:name>Graublau</decor:name>
     <decor:components>
@@ -63,7 +94,11 @@
       <decor:component name="Nickeloxid" ratio="50%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
+    <decor:applicationAreas>
+      <decor:area>Flügelkanten</decor:area>
+    </decor:applicationAreas>
   </decor:colorMix>
+
   <decor:colorMix id="color009">
     <decor:name>Violett</decor:name>
     <decor:components>
@@ -71,7 +106,11 @@
       <decor:component name="Kobaltoxid" ratio="30%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
+    <decor:applicationAreas>
+      <decor:area>Schnabelbasis</decor:area>
+    </decor:applicationAreas>
   </decor:colorMix>
+
   <decor:colorMix id="color010">
     <decor:name>Ockergelb</decor:name>
     <decor:components>
@@ -79,5 +118,9 @@
       <decor:component name="Antimonoxid" ratio="40%" />
     </decor:components>
     <decor:technique>Aufglasurmalerei</decor:technique>
+    <decor:applicationAreas>
+      <decor:area>Beine</decor:area>
+    </decor:applicationAreas>
   </decor:colorMix>
-</mods:extension>
+
+</decor:colorMixtures>

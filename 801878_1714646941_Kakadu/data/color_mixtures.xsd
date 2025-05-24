@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://example.org/decor"
+           xmlns:decor="http://example.org/decor"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
+
+  <xs:element name="colorMixtures" type="decor:ColorMixturesType"/>
+
+  <xs:complexType name="ColorMixturesType">
+    <xs:sequence>
+      <xs:element name="colorMix" type="decor:ColorMixType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ColorMixType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="components" type="decor:ComponentsType"/>
+      <xs:element name="technique" type="xs:string"/>
+      <xs:element name="applicationAreas" type="decor:ApplicationAreasType" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:ID" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="ComponentsType">
+    <xs:sequence>
+      <xs:element name="component" type="decor:ComponentType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ComponentType">
+    <xs:attribute name="name" type="xs:string" use="required"/>
+    <xs:attribute name="ratio" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="ApplicationAreasType">
+    <xs:sequence>
+      <xs:element name="area" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>

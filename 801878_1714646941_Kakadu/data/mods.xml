@@ -63,24 +63,12 @@
   <extension>
     <meissen:physicalDescription>
       <meissen:form authority="gnd">Porzellanfigur</meissen:form>
-      <meissen:extent>
-        <meissen:height unit="centimeter">35.5</meissen:height>
-        <meissen:width unit="centimeter">41.0</meissen:width>
-        <meissen:depth unit="centimeter">18.9</meissen:depth>
-      </meissen:extent>
+      <meissen:extent heightInMillimeter="355" widthInMillimeter="410" depthInMillimeter="189" />
       <meissen:decorationType>Aufglasurfarben</meissen:decorationType>
       <meissen:foot type="closed" />
-      <meissen:sherd>
-        <meissen:thickness unit="cm">0.7</meissen:thickness>
-        <meissen:color>Weiß</meissen:color>
-        <meissen:material>Porzellan</meissen:material>
-      </meissen:sherd>
-      <meissen:glaze>
-        <meissen:thickness unit="mm">2</meissen:thickness>
-        <meissen:color>Weiß</meissen:color>
-        <meissen:transparency unit="percent">98</meissen:transparency>
-        <meissen:areas>gesamte Figur ohne Boden</meissen:areas>
-      </meissen:glaze>
+      <meissen:sherd thicknessInMillimeter="7" color="white" material="porzellan" />
+      <meissen:glaze thicknessInMillimeter="20" color="white" transparencyPercantage="98"
+        areas="gesamte Figur ohne Boden" />
       <meissen:baseMarking>No. 216 (handgeschrieben)</meissen:baseMarking>
       <meissen:purpose>Digitale Repräsentation zur Reproduktion</meissen:purpose>
       <meissen:decorPhotos photoPath="painting_reference_photos/" iccProfile="standard_profile.icc"
@@ -95,22 +83,22 @@
     <meissen:technicalWorkflow>
       <meissen:scanning>
         <meissen:scannerDevice name="GOM ATOS Q" />
-        <meissen:scannerSoftware name=" GOM Inspect Pro" version=" 2023" />
-        <meissen:scannerSettings resolutionInMegapixel=" 12" pointDistanceInMillimeter=" 0.04" />
+        <meissen:scannerSoftware name="GOM Inspect Pro" version="2023" />
+        <meissen:scannerSettings resolutionInMegapixel="12" pointDistanceInMillimeter="0.04" />
       </meissen:scanning>
       <meissen:modelling>
-        <meissen:modellingSoftware name=" MeshLab" version=" 2022.02" />
+        <meissen:modellingSoftware name="MeshLab" version="2022.02" />
         <meissen:modellingProcessingSteps>manuelle Netzreparatur, Glättung, Ausrichtung</meissen:modellingProcessingSteps>
       </meissen:modelling>
       <meissen:printing>
         <meissen:printerDevice name="Original Prusa SL1S SPEED" />
         <meissen:printerMaterial name="Prusament Tough Resin" />
-        <meissen:printerSettings layerThicknessInMillimete=" 0.025" temperatureInCelsius=" 25" />
+        <meissen:printerSettings layerThicknessInMillimete="0.025" temperatureInCelsius="25" />
       </meissen:printing>
       <meissen:slicing>
-        <meissen:slicerSoftware name=" PrusaSlicer" version=" 2.6.1" />
-        <meissen:slicerSettings infillPercentage=" 100" supports=" Activated"
-          exposureTimeInSeconds=" 2.5" />
+        <meissen:slicerSoftware name="PrusaSlicer" version="2.6.1" />
+        <meissen:slicerSettings infillPercentage="100" supports="Activated"
+          exposureTimeInSeconds="2.5" />
       </meissen:slicing>
     </meissen:technicalWorkflow>
   </extension>

@@ -77,8 +77,14 @@
       <meissen:overviewPhotos photoPath="painting_reference_photos"
         iccProfile="standard_profile.icc"
         description="Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen" />
-      <meissen:scanData scanPath="" meshesPath=""
-        description="15 Tonteile als E57 (roh/überarbeitet), glTF und STL vorliegend" />
+      <meissen:rawScans rawScanPath=""
+        description="15 Tonteile als rohe E57 vorliegend" />
+      <meissen:processedScans processedScanPath=""
+        description="15 Tonteile als überarbeitete E57 vorliegend" />
+      <meissen:printableMeshes printableMeshPath=""
+        description="15 Tonteile als druckbare STL vorliegend" />
+      <meissen:viewableMeshes viewableMeshPath=""
+        description="15 Tonteile als glTF vorliegend" />
     </meissen:physicalDescription>
     <meissen:technicalWorkflow>
       <meissen:scanning>
@@ -87,13 +93,13 @@
         <meissen:scannerSettings resolutionInMegapixel="12" pointDistanceInMillimeter="0.04" />
       </meissen:scanning>
       <meissen:modelling>
-        <meissen:modellingSoftware name="MeshLab" version="2022.02" />
-        <meissen:modellingProcessingSteps>manuelle Netzreparatur, Glättung, Ausrichtung</meissen:modellingProcessingSteps>
+        <meissen:modellingSoftware name="MeshLab" version="2022.02"
+          processingSteps="manuelle Netzreparatur, Glättung, Ausrichtung" />
       </meissen:modelling>
       <meissen:printing>
         <meissen:printerDevice name="Original Prusa SL1S SPEED" />
         <meissen:printerMaterial name="Prusament Tough Resin" />
-        <meissen:printerSettings layerThicknessInMillimete="0.025" temperatureInCelsius="25" />
+        <meissen:printerSettings layerThicknessInMillimeter="0.025" temperatureInCelsius="25" />
       </meissen:printing>
       <meissen:slicing>
         <meissen:slicerSoftware name="PrusaSlicer" version="2.6.1" />

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="hhttp://nfdi4culture.de/meissen1"
+           xmlns:meissen="http://nfdi4culture.de/meissen1"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
+
+  <xs:element name="physicalDescription">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="form" type="xs:string" minOccurs="0"/>
+        <xs:element name="extent" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="heightInMillimeter" type="xs:decimal"/>
+            <xs:attribute name="widthInMillimeter" type="xs:decimal"/>
+            <xs:attribute name="depthInMillimeter" type="xs:decimal"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="decorationType" type="xs:string" minOccurs="0"/>
+        <xs:element name="foot" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="type" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="sherd" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="thicknessInMillimeter" type="xs:decimal"/>
+            <xs:attribute name="color" type="xs:string"/>
+            <xs:attribute name="material" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="glaze" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="thicknessInMillimeter" type="xs:decimal"/>
+            <xs:attribute name="color" type="xs:string"/>
+            <xs:attribute name="transparencyPercantage" type="xs:decimal"/>
+            <xs:attribute name="areas" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="baseMarking" type="xs:string" minOccurs="0"/>
+        <xs:element name="purpose" type="xs:string" minOccurs="0"/>
+        <xs:element name="decorPhotos" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="photoPath" type="xs:string"/>
+            <xs:attribute name="iccProfile" type="xs:string"/>
+            <xs:attribute name="colorMixtures" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="overviewPhotos" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="photoPath" type="xs:string"/>
+            <xs:attribute name="iccProfile" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="rawScans" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="rawScanPath" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="processedScans" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="processedScanPath" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="printableMeshes" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="printableMeshPath" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="viewableMeshes" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="viewableMeshPath" type="xs:string"/>
+            <xs:attribute name="description" type="xs:string"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="technicalWorkflow">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="scanning" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="scannerDevice">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="scannerSoftware">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string"/>
+                  <xs:attribute name="version" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="scannerSettings">
+                <xs:complexType>
+                  <xs:attribute name="resolutionInMegapixel" type="xs:decimal"/>
+                  <xs:attribute name="pointDistanceInMillimeter" type="xs:decimal"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="modelling" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="modellingSoftware">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string"/>
+                  <xs:attribute name="version" type="xs:string"/>
+                  <xs:attribute name="processingSteps" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="printing" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="printerDevice">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="printerMaterial">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="printerSettings">
+                <xs:complexType>
+                  <xs:attribute name="layerThicknessInMillimeter" type="xs:decimal"/>
+                  <xs:attribute name="temperatureInCelsius" type="xs:decimal"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="slicing" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="slicerSoftware">
+                <xs:complexType>
+                  <xs:attribute name="name" type="xs:string"/>
+                  <xs:attribute name="version" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="slicerSettings">
+                <xs:complexType>
+                  <xs:attribute name="infillPercentage" type="xs:decimal"/>
+                  <xs:attribute name="supports" type="xs:string"/>
+                  <xs:attribute name="exposureTimeInSeconds" type="xs:decimal"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

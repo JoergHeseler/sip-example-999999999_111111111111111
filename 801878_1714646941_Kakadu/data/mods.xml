@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:meissen="http://example.org/meissen" version="3.7" lang="de">
+  xmlns:meissen="http://nfdi4culture.de/meissen1" version="3.7" lang="de">
   <identifier type="local">801878_1714646941_Kakadu</identifier>
   <identifier type="inventoryNumber">PE 10</identifier>
   <titleInfo>

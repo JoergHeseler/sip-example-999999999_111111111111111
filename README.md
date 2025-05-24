@@ -12,7 +12,7 @@ The handbook is available on [Zenodo](https://doi.org/10.5281/zenodo.15481637).
 
 ## Repository Contents
 
-The SIP is located in the folder [801878_1714646941_Kakadu](./801878_1714646941_Kakadu/)
+The SIP is located in the folder [801878_1714646941_Kakadu](./801878_1714646941_Kakadu/)[^1]
 
 ## Related Projects
 

@@ -4,15 +4,17 @@ This repository contains a complete Submission Information Package (SIP) for the
 
 ## Background
 
-The dataset is part of the accompanying materials to the handbook  
-**“Digitisation and Digital Long-Term Archiving of Meissen Porcelain Figures for Their Reproduction”**  
+The dataset is part of the accompanying materials to the guideline
+**“Digitalisierung und Langzeitarchivierung von Meißner Porzellanfiguren für ihre Reproduktion”** (Digitisation and Digital Preservation of Meissen Porcelain Figures for Their Reproduction)  
 published as part of the NFDI4Culture community's recommendations.
 
-The handbook is available on [Zenodo](https://doi.org/10.5281/zenodo.15481637).
+The guideline is available on [Zenodo](https://doi.org/10.5281/zenodo.15481637).
 
 ## Repository Contents
 
 The SIP is located in the folder [801878_1714646941_Kakadu](./801878_1714646941_Kakadu/)[^1]
+
+Due to legal and rights-related restrictions, only simplified point cloud and mesh models (STL, glTF) could be included in this SIP. These were chosen to illustrate the structure and workflow of digital preservation and reproduction without violating reproduction or copyright regulations.
 
 ## Related Projects
 

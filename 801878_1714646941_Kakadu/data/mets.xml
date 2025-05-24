@@ -1,103 +1,413 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/"
-           xmlns:xlink="http://www.w3.org/1999/xlink"
-           xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:rights="http://slubarchiv.slub-dresden.de/rights1"
-           xmlns:slub="http://www.slub-dresden.de/schemas/mets/"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
-           OBJID="801878_1714646941_Kakadu"
-           TYPE="SIP"
-           PROFILE="SLUBArchiv SIP 1.0"
-           LABEL="Porzellanfigur Kakadu von Johann Joachim Kändler">
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3"
+  xmlns:rights="http://slubarchiv.slub-dresden.de/rights1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
+  OBJID="801878_1714646941_Kakadu"
+  TYPE="SIP"
+  PROFILE="SLUBArchiv SIP 1.0"
+  LABEL="Porzellanfigur Kakadu von Johann Joachim Kändler">
 
-  <!-- Descriptive Metadata -->
-  <mets:dmdSec ID="dmd1">
-    <mets:mdWrap MDTYPE="MODS">
-      <mets:xmlData>
-        <mods:mods version="3.7" xmlns:mods="http://www.loc.gov/mods/v3" xml:lang="de">
-          <mods:titleInfo>
-            <mods:title>Kakadu</mods:title>
-          </mods:titleInfo>
-          <mods:name type="personal">
-            <mods:namePart>Johann Joachim Kändler</mods:namePart>
-            <mods:role><mods:roleTerm type="text">Modelleur</mods:roleTerm></mods:role>
-          </mods:name>
-          <mods:originInfo>
-            <mods:place><mods:placeTerm type="text">Meißner Porzellanmanufaktur</mods:placeTerm></mods:place>
-            <mods:dateCreated>1734</mods:dateCreated>
-          </mods:originInfo>
-          <mods:physicalDescription>
-            <mods:form authority="material">Porzellan</mods:form>
-            <mods:extent>H. 35,5 cm, B. 41,0 cm, T. 18,9 cm</mods:extent>
-            <mods:note>Bemalung: Aufglasurfarben</mods:note>
-          </mods:physicalDescription>
-          <mods:identifier type="local">PE 10</mods:identifier>
-          <mods:location>
-            <mods:physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</mods:physicalLocation>
-          </mods:location>
-          <mods:note>Herstellungszweck: Für die königliche Porzellanmenagerie im Japanischen Palais</mods:note>
-        </mods:mods>
-      </mets:xmlData>
-    </mets:mdWrap>
-  </mets:dmdSec>
-
-  <!-- Administrative Metadata -->
-  <mets:amdSec ID="amd1">
-    <mets:rightsMD ID="rights1">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="SLUBArchivRights">
-        <mets:xmlData>
-          <rights:rightsDeclaration xmlns:rights="http://slubarchiv.slub-dresden.de/rights1">
-            <rights:copyrightStatus>copyrighted</rights:copyrightStatus>
-            <rights:rightsHolder>
-              <rights:holderName>Porzellanmanufaktur Meissen</rights:holderName>
-              <rights:holderContact>info@meissen.com</rights:holderContact>
-            </rights:rightsHolder>
-            <rights:permissions>
-              <rights:accessRestriction type="closed">Zugriff ausschließlich für Zwecke der digitalen Langzeitarchivierung.</rights:accessRestriction>
-            </rights:permissions>
-            <rights:contract>
-              <rights:contractPartner>SLUBArchiv</rights:contractPartner>
-              <rights:contractDate>2024-03-01</rights:contractDate>
-              <rights:contractDescription>Das SLUBArchiv ist zuständig für die digitale Langzeitarchivierung der Figur.</rights:contractDescription>
-            </rights:contract>
-            <rights:legalRestrictions>
-              <rights:heritageProtection>Das Objekt unterliegt dem Schutz von Kulturgut.</rights:heritageProtection>
-            </rights:legalRestrictions>
-          </rights:rightsDeclaration>
-        </mets:xmlData>
-      </mets:mdWrap>
-    </mets:rightsMD>
-  </mets:amdSec>
-
-  <!-- File Section (abgespeckt für Demo) -->
   <mets:fileSec>
-    <mets:fileGrp USE="metadata">
-      <mets:file ID="mods1" MIMETYPE="text/xml">
-        <mets:FLocat xlink:href="mods.xml" xlink:type="simple"/>
+    <mets:fileGrp USE="images">
+      <mets:file ID="photo10" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000001.tif" xlink:type="simple" />
       </mets:file>
-      <mets:file ID="rights1" MIMETYPE="text/xml">
-        <mets:FLocat xlink:href="../meta/rights.xml" xlink:type="simple"/>
+      <mets:file ID="photo11" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000002.tif" xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="photo12" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000003.tif" xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="photo13" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000004.tif" xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="photo14" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000005.tif" xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint15" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000001.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint16" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000002.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint17" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000003.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint18" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000004.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint19" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000005.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint20" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000006.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint21" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000007.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint22" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000008.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint23" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000009.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint24" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000010.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint25" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000011.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint26" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000012.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint27" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000013.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint28" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000014.tif"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint29" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000015.tif"
+          xlink:type="simple" />
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="color-mixes">
-      <mets:file ID="colors1" MIMETYPE="text/xml">
-        <mets:FLocat xlink:href="color_mixtures.xml" xlink:type="simple"/>
+    <mets:fileGrp USE="3dmodels">
+      <mets:file ID="stl_clay_part001" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part001/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part001" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part001/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part001" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part001/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part002" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part002/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part002" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part002/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part002" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part002/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part003" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part003/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part003" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part003/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part003" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part003/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part004" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part004/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part004" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part004/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part004" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part004/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part005" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part005/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part005" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part005/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part005" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part005/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part006" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part006/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part006" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part006/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part006" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part006/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part007" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part007/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part007" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part007/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part007" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part007/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part008" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part008/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part008" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part008/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part008" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part008/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part009" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part009/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part009" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part009/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part009" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part009/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part010" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part010/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part010" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part010/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part010" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part010/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part011" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part011/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part011" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part011/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part011" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part011/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part012" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part012/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part012" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part012/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part012" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part012/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part013" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part013/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part013" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part013/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part013" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part013/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part014" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part014/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part014" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part014/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part014" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part014/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="stl_clay_part015" MIMETYPE="model/stl">
+        <mets:FLocat xlink:href="clay_parts/clay_part015/processed_meshes/mesh_stl/mesh.stl"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="gltf_clay_part015" MIMETYPE="model/gltf+json">
+        <mets:FLocat xlink:href="clay_parts/clay_part015/processed_meshes/mesh_gltf/mesh.gltf"
+          xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="scan_clay_part015" MIMETYPE="application/e57">
+        <mets:FLocat xlink:href="clay_parts/clay_part015/processed_scans/scans_e57/scan.e57"
+          xlink:type="simple" />
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
 
-  <!-- StructMap (einfaches logisches Mapping) -->
   <mets:structMap TYPE="logical">
     <mets:div TYPE="object" LABEL="Porzellanfigur Kakadu">
-      <mets:div TYPE="metadata" LABEL="MODS">
-        <mets:fptr FILEID="mods1"/>
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 1">
+        <mets:fptr FILEID="photo10" />
       </mets:div>
-      <mets:div TYPE="rights" LABEL="Rights">
-        <mets:fptr FILEID="rights1"/>
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 2">
+        <mets:fptr FILEID="photo11" />
       </mets:div>
-      <mets:div TYPE="colors" LABEL="Farbreferenzen">
-        <mets:fptr FILEID="colors1"/>
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 3">
+        <mets:fptr FILEID="photo12" />
+      </mets:div>
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 4">
+        <mets:fptr FILEID="photo13" />
+      </mets:div>
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 5">
+        <mets:fptr FILEID="photo14" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 1">
+        <mets:fptr FILEID="paint15" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 2">
+        <mets:fptr FILEID="paint16" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 3">
+        <mets:fptr FILEID="paint17" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 4">
+        <mets:fptr FILEID="paint18" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 5">
+        <mets:fptr FILEID="paint19" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 6">
+        <mets:fptr FILEID="paint20" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 7">
+        <mets:fptr FILEID="paint21" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 8">
+        <mets:fptr FILEID="paint22" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 9">
+        <mets:fptr FILEID="paint23" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 10">
+        <mets:fptr FILEID="paint24" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 11">
+        <mets:fptr FILEID="paint25" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 12">
+        <mets:fptr FILEID="paint26" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 13">
+        <mets:fptr FILEID="paint27" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 14">
+        <mets:fptr FILEID="paint28" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 15">
+        <mets:fptr FILEID="paint29" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part001">
+        <mets:fptr FILEID="stl_clay_part001" />
+        <mets:fptr FILEID="gltf_clay_part001" />
+        <mets:fptr FILEID="scan_clay_part001" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part002">
+        <mets:fptr FILEID="stl_clay_part002" />
+        <mets:fptr FILEID="gltf_clay_part002" />
+        <mets:fptr FILEID="scan_clay_part002" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part003">
+        <mets:fptr FILEID="stl_clay_part003" />
+        <mets:fptr FILEID="gltf_clay_part003" />
+        <mets:fptr FILEID="scan_clay_part003" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part004">
+        <mets:fptr FILEID="stl_clay_part004" />
+        <mets:fptr FILEID="gltf_clay_part004" />
+        <mets:fptr FILEID="scan_clay_part004" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part005">
+        <mets:fptr FILEID="stl_clay_part005" />
+        <mets:fptr FILEID="gltf_clay_part005" />
+        <mets:fptr FILEID="scan_clay_part005" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part006">
+        <mets:fptr FILEID="stl_clay_part006" />
+        <mets:fptr FILEID="gltf_clay_part006" />
+        <mets:fptr FILEID="scan_clay_part006" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part007">
+        <mets:fptr FILEID="stl_clay_part007" />
+        <mets:fptr FILEID="gltf_clay_part007" />
+        <mets:fptr FILEID="scan_clay_part007" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part008">
+        <mets:fptr FILEID="stl_clay_part008" />
+        <mets:fptr FILEID="gltf_clay_part008" />
+        <mets:fptr FILEID="scan_clay_part008" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part009">
+        <mets:fptr FILEID="stl_clay_part009" />
+        <mets:fptr FILEID="gltf_clay_part009" />
+        <mets:fptr FILEID="scan_clay_part009" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part010">
+        <mets:fptr FILEID="stl_clay_part010" />
+        <mets:fptr FILEID="gltf_clay_part010" />
+        <mets:fptr FILEID="scan_clay_part010" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part011">
+        <mets:fptr FILEID="stl_clay_part011" />
+        <mets:fptr FILEID="gltf_clay_part011" />
+        <mets:fptr FILEID="scan_clay_part011" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part012">
+        <mets:fptr FILEID="stl_clay_part012" />
+        <mets:fptr FILEID="gltf_clay_part012" />
+        <mets:fptr FILEID="scan_clay_part012" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part013">
+        <mets:fptr FILEID="stl_clay_part013" />
+        <mets:fptr FILEID="gltf_clay_part013" />
+        <mets:fptr FILEID="scan_clay_part013" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part014">
+        <mets:fptr FILEID="stl_clay_part014" />
+        <mets:fptr FILEID="gltf_clay_part014" />
+        <mets:fptr FILEID="scan_clay_part014" />
+      </mets:div>
+      <mets:div TYPE="clay_part" LABEL="clay_part015">
+        <mets:fptr FILEID="stl_clay_part015" />
+        <mets:fptr FILEID="gltf_clay_part015" />
+        <mets:fptr FILEID="scan_clay_part015" />
       </mets:div>
     </mets:div>
   </mets:structMap>

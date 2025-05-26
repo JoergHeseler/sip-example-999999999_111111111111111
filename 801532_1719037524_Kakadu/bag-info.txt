@@ -1,25 +1,24 @@
 Source-Organization: SLUB Dresden
-Organization-Address: kitodo@slub-dresden.de
+Organization-Address: meissen_porcelain_for_reproduction@slub-dresden.de
 External-Identifier: 801532
 External-Identifier: http://digital.slub-dresden.de/id395202019-18280000
 External-Identifier: urn:nbn:de:bsz:14-db-id395202019-182800001
-Title: Neuer Königl. Sächs. allergn. concessionirter Dresdner historischer
-  Stadt- und Land-Kalender / 1828
+Title: Meißner Porzellanfigur "Kakadu" von Johann Joachim Kändler, 1734
 LDP-funder: LDP Sachsen
 LDP-lender: SLUB Dresden
 LDP-collection: Saxonica
 LDP-collection: LDP: SLUB
 LDP-project: LDP: SLUB
-SLUBArchiv-sipVersion: v2020.1
-SLUBArchiv-externalWorkflow: kitodo
+SLUBArchiv-sipVersion: v2025.5
+SLUBArchiv-externalWorkflow: meissen_porcelain_for_reproduction
 SLUBArchiv-externalId: 801532
 SLUBArchiv-externalIsilId: DE-14
-SLUBArchiv-exportToArchiveDate: 2024-05-02T12:49:01+02:00
+SLUBArchiv-exportToArchiveDate: 2025-05-26T12:53:01+02:00
 SLUBArchiv-hasConservationReason: false
 SLUBArchiv-archivalValueDescription: Archivierung erfolgt laut gesetzlichem
   Auftrag der SLUB Dresden.
 SLUBArchiv-rightsVersion: 1.0
 DateIssued: 1828
 Payload-Oxum: 1547948041.171
-Bag-Size: 1.44 GB
-Bagging-Date: 2024-05-02
+Bag-Size: 59.1 MB
+Bagging-Date: 2025-05-26

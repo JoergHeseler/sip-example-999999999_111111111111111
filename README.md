@@ -21,7 +21,7 @@ Due to legal and rights-related restrictions, only simplified point cloud and me
 
 ## Acknowledgments
 
-Special thanks to XXX.
+Special thanks to the colleagues at SLUB Dresden – especially from the Division for Infrastructure and Long-Term Availability – for their continuous support and valuable feedback during the development of this SIP and the accompanying guideline. We also sincerely thank the team of the Meissen Porcelain Manufactory for their collaboration and insights into the historical and contemporary production processes. Appreciation is likewise extended to the NFDI4Culture colleagues in Heidelberg for their helpful discussions and technical advice throughout this project.
 
 ## Imprint
 

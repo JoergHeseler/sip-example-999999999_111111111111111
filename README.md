@@ -29,6 +29,7 @@ Special thanks to the colleagues at SLUB Dresden – especially from the Divisio
 Funded by the German Research Foundation (DFG), Project No. [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
 
 **Author**: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
+
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Licenses

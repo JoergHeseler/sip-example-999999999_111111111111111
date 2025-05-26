@@ -1,4 +1,4 @@
-# SIP Example: 801878_1714646941_Kakadu
+# SIP Example: 801532_1719037524_Kakadu
 
 This repository contains a complete Submission Information Package (SIP) for the digital long-term preservation and physical reproduction of a historical Meissen porcelain figure.
 
@@ -11,7 +11,7 @@ The guideline is available on [Zenodo](https://doi.org/10.5281/zenodo.15481637).
 
 ## Repository Contents
 
-The SIP is located in the folder [801878_1714646941_Kakadu](./801878_1714646941_Kakadu/)[^1]
+The SIP is located in the folder [801532_1719037524_Kakadu](./801532_1719037524_Kakadu/)[^1]
 
 Due to legal and rights-related restrictions, only simplified point cloud and mesh models (STL, glTF) could be included in this SIP. These were chosen to illustrate the structure and workflow of digital preservation and reproduction without violating reproduction or copyright regulations.
 

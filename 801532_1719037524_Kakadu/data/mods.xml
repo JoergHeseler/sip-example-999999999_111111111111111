@@ -78,13 +78,13 @@
         iccProfile="standard_profile.icc"
         description="Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen" />
       <meissen:rawScans rawScanPath=""
-        description="15 Tonteile als rohe E57 vorliegend" />
+        description="13 Tonteile als rohe E57 vorliegend" />
       <meissen:processedScans processedScanPath=""
-        description="15 Tonteile als überarbeitete E57 vorliegend" />
+        description="13 Tonteile als überarbeitete E57 vorliegend" />
       <meissen:printableMeshes printableMeshPath=""
-        description="15 Tonteile als druckbare STL vorliegend" />
+        description="13 Tonteile als druckbare STL vorliegend" />
       <meissen:viewableMeshes viewableMeshPath=""
-        description="15 Tonteile als glTF vorliegend" />
+        description="13 Tonteile als glTF vorliegend" />
     </meissen:physicalDescription>
     <meissen:technicalWorkflow>
       <meissen:scanning>

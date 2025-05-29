@@ -333,30 +333,6 @@
         <mets:FLocat xlink:href="clay_parts/clay_part013/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="stl_clay_part014" MIMETYPE="model/stl">
-        <mets:FLocat xlink:href="clay_parts/clay_part014/processed_meshes/mesh_stl/mesh.stl"
-          xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="gltf_clay_part014" MIMETYPE="model/gltf+json">
-        <mets:FLocat xlink:href="clay_parts/clay_part014/processed_meshes/mesh_gltf/mesh.gltf"
-          xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="scan_clay_part014" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part014/processed_scans/scans_e57/scan.e57"
-          xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="stl_clay_part015" MIMETYPE="model/stl">
-        <mets:FLocat xlink:href="clay_parts/clay_part015/processed_meshes/mesh_stl/mesh.stl"
-          xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="gltf_clay_part015" MIMETYPE="model/gltf+json">
-        <mets:FLocat xlink:href="clay_parts/clay_part015/processed_meshes/mesh_gltf/mesh.gltf"
-          xlink:type="simple" />
-      </mets:file>
-      <mets:file ID="scan_clay_part015" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part015/processed_scans/scans_e57/scan.e57"
-          xlink:type="simple" />
-      </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
 
@@ -486,16 +462,6 @@
         <mets:fptr FILEID="stl_clay_part013" />
         <mets:fptr FILEID="gltf_clay_part013" />
         <mets:fptr FILEID="scan_clay_part013" />
-      </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part014">
-        <mets:fptr FILEID="stl_clay_part014" />
-        <mets:fptr FILEID="gltf_clay_part014" />
-        <mets:fptr FILEID="scan_clay_part014" />
-      </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part015">
-        <mets:fptr FILEID="stl_clay_part015" />
-        <mets:fptr FILEID="gltf_clay_part015" />
-        <mets:fptr FILEID="scan_clay_part015" />
       </mets:div>
     </mets:div>
   </mets:structMap>

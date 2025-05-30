@@ -56,25 +56,25 @@
         </xs:element>
         <xs:element name="rawScans" minOccurs="0">
           <xs:complexType>
-            <xs:attribute name="rawScanPath" type="xs:string"/>
+            <xs:attribute name="rawScanSubPath" type="xs:string"/>
             <xs:attribute name="description" type="xs:string"/>
           </xs:complexType>
         </xs:element>
         <xs:element name="processedScans" minOccurs="0">
           <xs:complexType>
-            <xs:attribute name="processedScanPath" type="xs:string"/>
+            <xs:attribute name="processedScanSubPath" type="xs:string"/>
             <xs:attribute name="description" type="xs:string"/>
           </xs:complexType>
         </xs:element>
         <xs:element name="printableMeshes" minOccurs="0">
           <xs:complexType>
-            <xs:attribute name="printableMeshPath" type="xs:string"/>
+            <xs:attribute name="printableMeshSubPath" type="xs:string"/>
             <xs:attribute name="description" type="xs:string"/>
           </xs:complexType>
         </xs:element>
         <xs:element name="viewableMeshes" minOccurs="0">
           <xs:complexType>
-            <xs:attribute name="viewableMeshPath" type="xs:string"/>
+            <xs:attribute name="viewableMeshSubPath" type="xs:string"/>
             <xs:attribute name="description" type="xs:string"/>
           </xs:complexType>
         </xs:element>

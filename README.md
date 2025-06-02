@@ -7,7 +7,7 @@ This repository contains a complete Submission Information Package (SIP) for the
 The dataset is part of the accompanying materials to the guideline
 **“Digitalisierung und Langzeitarchivierung von Meißner Porzellanfiguren für ihre Reproduktion”** (Digitisation and Digital Preservation of Meissen Porcelain Figures for Their Reproduction) published as part of the NFDI4Culture community's recommendations.
 
-The guideline is available on [Zenodo](https://doi.org/10.5281/zenodo.15481637).
+The guideline will be available on [Zenodo](https://doi.org/10.5281/zenodo.15481637) soon.
 
 ## Repository Contents
 

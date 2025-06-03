@@ -517,83 +517,83 @@
       <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 15">
         <mets:fptr FILEID="paint29" />
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part001">
+      <mets:div TYPE="clay_part" LABEL="clay_part001 (Sockel)">
         <mets:fptr FILEID="stl_clay_part001" />
         <mets:fptr FILEID="gltf_clay_part001" />
         <mets:fptr FILEID="scan_clay_part001" />
         <mets:note type="marking">Eingeritzte Nummern: 2,5,7,17,18</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part002">
+      <mets:div TYPE="clay_part" LABEL="clay_part002 (Kopf)">
         <mets:fptr FILEID="stl_clay_part002" />
         <mets:fptr FILEID="gltf_clay_part002" />
         <mets:fptr FILEID="scan_clay_part002" />
         <mets:note type="marking">Eingeritzte Nummern: 2,4,13,16</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part003">
+      <mets:div TYPE="clay_part" LABEL="clay_part003 (Körper)">
         <mets:fptr FILEID="stl_clay_part003" />
         <mets:fptr FILEID="gltf_clay_part003" />
         <mets:fptr FILEID="scan_clay_part003" />
         <mets:note type="marking">Eingeritzte Nummern: 2,8,10,14,15,19</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part004">
+      <mets:div TYPE="clay_part" LABEL="clay_part004 (Flügel links)">
         <mets:fptr FILEID="stl_clay_part004" />
         <mets:fptr FILEID="gltf_clay_part004" />
         <mets:fptr FILEID="scan_clay_part004" />
         <mets:note type="marking">Eingeritzte Nummern: 2,12,15</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part005">
+      <mets:div TYPE="clay_part" LABEL="clay_part005 (Flügel rechts)">
         <mets:fptr FILEID="stl_clay_part005" />
         <mets:fptr FILEID="gltf_clay_part005" />
         <mets:fptr FILEID="scan_clay_part005" />
         <mets:note type="marking">Eingeritzte Nummern: 3,9,13,16,19</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part006">
+      <mets:div TYPE="clay_part" LABEL="clay_part006 (Kopffeder)">
         <mets:fptr FILEID="stl_clay_part006" />
         <mets:fptr FILEID="gltf_clay_part006" />
         <mets:fptr FILEID="scan_clay_part006" />
-        <mets:note type="marking">Eingeritzte Nummern: 7,9,12,17,19</mets:note>
+        <mets:note type="marking">Eingeritzte Nummern: 1</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part007">
+      <mets:div TYPE="clay_part" LABEL="clay_part007 (Flügelfeder)">
         <mets:fptr FILEID="stl_clay_part007" />
         <mets:fptr FILEID="gltf_clay_part007" />
         <mets:fptr FILEID="scan_clay_part007" />
-        <mets:note type="marking">Eingeritzte Nummern: 2,3,7,13,15,17</mets:note>
+        <mets:note type="marking">Eingeritzte Nummern: 6</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part008">
+      <mets:div TYPE="clay_part" LABEL="clay_part008 (Flügel links)">
         <mets:fptr FILEID="stl_clay_part008" />
         <mets:fptr FILEID="gltf_clay_part008" />
         <mets:fptr FILEID="scan_clay_part008" />
         <mets:note type="marking">Eingeritzte Nummern: 4,12,16,17</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part009">
+      <mets:div TYPE="clay_part" LABEL="clay_part009 (Flügel rechts)">
         <mets:fptr FILEID="stl_clay_part009" />
         <mets:fptr FILEID="gltf_clay_part009" />
         <mets:fptr FILEID="scan_clay_part009" />
         <mets:note type="marking">Eingeritzte Nummern: 3,4,6,8,9,14</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part010">
+      <mets:div TYPE="clay_part" LABEL="clay_part010 (Schnabel)">
         <mets:fptr FILEID="stl_clay_part010" />
         <mets:fptr FILEID="gltf_clay_part010" />
         <mets:fptr FILEID="scan_clay_part010" />
         <mets:note type="marking">Eingeritzte Nummern: 5,12,13,19</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part011">
+      <mets:div TYPE="clay_part" LABEL="clay_part011 (Kralle links)">
         <mets:fptr FILEID="stl_clay_part011" />
         <mets:fptr FILEID="gltf_clay_part011" />
         <mets:fptr FILEID="scan_clay_part011" />
         <mets:note type="marking">Eingeritzte Nummern: 1,7,8,9,18</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part012">
+      <mets:div TYPE="clay_part" LABEL="clay_part012 (Kralle rechts)">
         <mets:fptr FILEID="stl_clay_part012" />
         <mets:fptr FILEID="gltf_clay_part012" />
         <mets:fptr FILEID="scan_clay_part012" />
-        <mets:note type="marking">Eingeritzte Nummern: 4,5,9,12,14</mets:note>
+        <mets:note type="marking">Eingeritzte Nummern: 1,5,9,12,14</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part013">
+      <mets:div TYPE="clay_part" LABEL="clay_part013 (Sockelpflanzen)">
         <mets:fptr FILEID="stl_clay_part013" />
         <mets:fptr FILEID="gltf_clay_part013" />
         <mets:fptr FILEID="scan_clay_part013" />
-        <mets:note type="marking">Eingeritzte Nummern: 2,3,4,9,11,17</mets:note>
+        <mets:note type="marking">Eingeritzte Nummern: 1</mets:note>
       </mets:div>
     </mets:div>
   </mets:structMap>

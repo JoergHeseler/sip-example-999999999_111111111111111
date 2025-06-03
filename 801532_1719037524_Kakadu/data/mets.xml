@@ -50,7 +50,38 @@
             <mods:extent>Höhe: 35,5 cm, Breite: 41,0 cm, Tiefe: 18,9 cm</mods:extent>
             <mods:note type="material">Material: Porzellan</mods:note>
             <mods:note type="decoration">Bemalung: Aufglasurfarben</mods:note>
+            <mods:note>Sockelboden: geschlossen</mods:note>
+            <mods:note>Scherben: Material: Porzellan, Farbe: Weiß, Dicke: 7 mm</mods:note>
+            <mods:note>Glasur: Farbe: Weiß, Dicke: 2,0 mm, Transparenz: 98 %, Bereiche: gesamte
+              Figur ohne Boden</mods:note>
+            <mods:note>Markierung auf Sockel: No. 216 (handgeschrieben)</mods:note>
+            <mods:note>Zweck: Digitale Repräsentation zur Reproduktion</mods:note>
+            <mods:note>Dekorationsfotos: painting_reference_photos/, ICC-Profil:
+              standard_profile.icc, Farbmischungen: color_mixtures.xml, Beschreibung: Fotografien im
+              TIFF-Format, 16bit, mit eingebetteten ICC-Profilen</mods:note>
+            <mods:note>Übersichtsaufnahmen: painting_reference_photos/, ICC-Profil:
+              standard_profile.icc, Beschreibung: Fotografien im TIFF-Format, 16bit, mit
+              eingebetteten ICC-Profilen</mods:note>
+            <mods:note>Raw Scans: scans/raw_scans/scans_e57, Beschreibung: 13 Tonteile als rohe E57
+              vorliegend</mods:note>
+            <mods:note>Processed Scans: scans/processed_scans/scans_e57, Beschreibung: 13 Tonteile
+              als überarbeitete E57 vorliegend</mods:note>
+            <mods:note>Druckbare Meshes (STL): processed_meshes/mesh_stl, Beschreibung: 13 Tonteile
+              als STL</mods:note>
+            <mods:note>Ansichtsmodule (glTF): processed_meshes/mesh_gltf, Beschreibung: 13 Tonteile
+              als glTF</mods:note>
           </mods:physicalDescription>
+
+          <mods:note type="technical">Scanner: GOM ATOS Q</mods:note>
+          <mods:note type="technical">Scansoftware: GOM Inspect Pro, Version 2023</mods:note>
+          <mods:note type="technical">Scaneinstellungen: 12 MP Auflösung, 0,04 mm Punktabstand</mods:note>
+          <mods:note type="technical">Modellierungssoftware: MeshLab, Version 2022.02, Schritte:
+            manuelle Netzreparatur, Glättung, Ausrichtung</mods:note>
+          <mods:note type="technical">3D-Drucker: Original Prusa SL1S SPEED, Harz: Prusament Tough
+            Resin</mods:note>
+          <mods:note type="technical">Druckeinstellungen: Schichtdicke: 0,025 mm, Temperatur: 25 °C</mods:note>
+          <mods:note type="technical">Slicer-Software: PrusaSlicer 2.6.1, Infill: 100 %, Supports:
+            aktiviert, Belichtungszeit: 2,5 s</mods:note>
 
           <mods:note type="provenance">Aufbewahrungsort: Porzellansammlung, Staatliche
             Kunstsammlungen

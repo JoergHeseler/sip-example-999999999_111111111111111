@@ -589,7 +589,7 @@
         <mets:fptr FILEID="scan_clay_part012" />
         <mets:note type="marking">Eingeritzte Nummern: 1,5,9,12,14</mets:note>
       </mets:div>
-      <mets:div TYPE="clay_part" LABEL="clay_part013 (Sockelpflanzen)">
+      <mets:div TYPE="clay_part" LABEL="clay_part013 (Sockeldekor)">
         <mets:fptr FILEID="stl_clay_part013" />
         <mets:fptr FILEID="gltf_clay_part013" />
         <mets:fptr FILEID="scan_clay_part013" />

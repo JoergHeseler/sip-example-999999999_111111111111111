@@ -48,27 +48,32 @@
           <mods:physicalDescription>
             <mods:form authority="gnd">Porzellanfigur</mods:form>
             <mods:extent>Höhe: 35,5 cm, Breite: 41,0 cm, Tiefe: 18,9 cm</mods:extent>
-            <mods:note type="material">Material: Porzellan</mods:note>
-            <mods:note type="decoration">Bemalung: Aufglasurfarben</mods:note>
-            <mods:note>Sockelboden: geschlossen</mods:note>
-            <mods:note>Scherben: Material: Porzellan, Farbe: Weiß, Dicke: 7 mm</mods:note>
-            <mods:note>Glasur: Farbe: Weiß, Dicke: 2,0 mm, Transparenz: 98 %, Bereiche: gesamte
+            <mods:note type="physical">Material: Porzellan</mods:note>
+            <mods:note type="physical">Bemalung: Aufglasurfarben</mods:note>
+            <mods:note type="physical">Sockelboden: geschlossen</mods:note>
+            <mods:note type="physical">Scherben: Material: Porzellan, Farbe: Weiß, Dicke: 7 mm</mods:note>
+            <mods:note type="physical">Glasur: Farbe: Weiß, Dicke: 2,0 mm, Transparenz: 98 %,
+              Bereiche: gesamte
               Figur ohne Boden</mods:note>
-            <mods:note>Markierung auf Sockel: No. 216 (handgeschrieben)</mods:note>
-            <mods:note>Zweck: Digitale Repräsentation zur Reproduktion</mods:note>
-            <mods:note>Dekorationsfotos: painting_reference_photos/, ICC-Profil:
+            <mods:note type="marking">Markierung auf Sockel: No. 216 (handgeschrieben)</mods:note>
+            <mods:note type="purpose">Zweck: Digitale Repräsentation zur Reproduktion</mods:note>
+            <mods:note type="technical">Dekorationsfotos: painting_reference_photos/, ICC-Profil:
               standard_profile.icc, Farbmischungen: color_mixtures.xml, Beschreibung: Fotografien im
               TIFF-Format, 16bit, mit eingebetteten ICC-Profilen</mods:note>
-            <mods:note>Übersichtsaufnahmen: painting_reference_photos/, ICC-Profil:
+            <mods:note type="technical">Übersichtsaufnahmen: painting_reference_photos/, ICC-Profil:
               standard_profile.icc, Beschreibung: Fotografien im TIFF-Format, 16bit, mit
               eingebetteten ICC-Profilen</mods:note>
-            <mods:note>Raw Scans: scans/raw_scans/scans_e57, Beschreibung: 13 Tonteile als rohe E57
+            <mods:note type="technical">Raw Scans: scans/raw_scans/scans_e57, Beschreibung: 13
+              Tonteile als rohe E57
               vorliegend</mods:note>
-            <mods:note>Processed Scans: scans/processed_scans/scans_e57, Beschreibung: 13 Tonteile
+            <mods:note type="technical">Processed Scans: scans/processed_scans/scans_e57,
+              Beschreibung: 13 Tonteile
               als überarbeitete E57 vorliegend</mods:note>
-            <mods:note>Druckbare Meshes (STL): processed_meshes/mesh_stl, Beschreibung: 13 Tonteile
+            <mods:note type="technical">Druckbare Meshes (STL): processed_meshes/mesh_stl,
+              Beschreibung: 13 Tonteile
               als STL</mods:note>
-            <mods:note>Ansichtsmodule (glTF): processed_meshes/mesh_gltf, Beschreibung: 13 Tonteile
+            <mods:note type="technical">Ansichtsmodule (glTF): processed_meshes/mesh_gltf,
+              Beschreibung: 13 Tonteile
               als glTF</mods:note>
           </mods:physicalDescription>
 

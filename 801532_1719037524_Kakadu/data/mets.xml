@@ -234,63 +234,66 @@
       <mets:file ID="photo14" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="full_view_photos/photos_tif/00000005.tif" xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint15" MIMETYPE="image/tiff">
+      <mets:file ID="photo15" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000006.tif" xlink:type="simple" />
+      </mets:file>
+      <mets:file ID="paint16" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000001.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint16" MIMETYPE="image/tiff">
+      <mets:file ID="paint17" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000002.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint17" MIMETYPE="image/tiff">
+      <mets:file ID="paint18" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000003.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint18" MIMETYPE="image/tiff">
+      <mets:file ID="paint19" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000004.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint19" MIMETYPE="image/tiff">
+      <mets:file ID="paint20" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000005.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint20" MIMETYPE="image/tiff">
+      <mets:file ID="paint21" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000006.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint21" MIMETYPE="image/tiff">
+      <mets:file ID="paint22" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000007.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint22" MIMETYPE="image/tiff">
+      <mets:file ID="paint23" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000008.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint23" MIMETYPE="image/tiff">
+      <mets:file ID="paint24" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000009.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint24" MIMETYPE="image/tiff">
+      <mets:file ID="paint25" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000010.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint25" MIMETYPE="image/tiff">
+      <mets:file ID="paint26" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000011.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint26" MIMETYPE="image/tiff">
+      <mets:file ID="paint27" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000012.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint27" MIMETYPE="image/tiff">
+      <mets:file ID="paint28" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000013.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint28" MIMETYPE="image/tiff">
+      <mets:file ID="paint29" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000014.tif"
           xlink:type="simple" />
       </mets:file>
-      <mets:file ID="paint29" MIMETYPE="image/tiff">
+      <mets:file ID="paint30" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000015.tif"
           xlink:type="simple" />
       </mets:file>
@@ -457,65 +460,68 @@
 
   <mets:structMap TYPE="logical">
     <mets:div TYPE="object" LABEL="Porzellanfigur Kakadu">
-      <mets:div TYPE="photo" LABEL="Gesamtansicht 1">
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 1 (rechts)">
         <mets:fptr FILEID="photo10" />
       </mets:div>
-      <mets:div TYPE="photo" LABEL="Gesamtansicht 2">
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 2 (hinten)">
         <mets:fptr FILEID="photo11" />
       </mets:div>
-      <mets:div TYPE="photo" LABEL="Gesamtansicht 3">
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 3 (links)">
         <mets:fptr FILEID="photo12" />
       </mets:div>
-      <mets:div TYPE="photo" LABEL="Gesamtansicht 4">
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 4 (vorne)">
         <mets:fptr FILEID="photo13" />
       </mets:div>
-      <mets:div TYPE="photo" LABEL="Gesamtansicht 5">
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 5 (unten)">
         <mets:fptr FILEID="photo14" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 1">
-        <mets:fptr FILEID="paint15" />
+      <mets:div TYPE="photo" LABEL="Gesamtansicht 6 (oben)">
+        <mets:fptr FILEID="photo15" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 2">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 1 (Sockel)">
         <mets:fptr FILEID="paint16" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 3">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 2 (Kralle links)">
         <mets:fptr FILEID="paint17" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 4">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 3 (Flügel rechts)">
         <mets:fptr FILEID="paint18" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 5">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 4 (Schwanz)">
         <mets:fptr FILEID="paint19" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 6">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 5 (Kopf vorne)">
         <mets:fptr FILEID="paint20" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 7">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 6 (Kopf rechts)">
         <mets:fptr FILEID="paint21" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 8">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 7 (Kopf links)">
         <mets:fptr FILEID="paint22" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 9">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 8 (Sockel rechts)">
         <mets:fptr FILEID="paint23" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 10">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 9 (Sockel vorne)">
         <mets:fptr FILEID="paint24" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 11">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 10 (Sockel links)">
         <mets:fptr FILEID="paint25" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 12">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 11 (Sockel rechts)">
         <mets:fptr FILEID="paint26" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 13">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 12 (Sockel hinten)">
         <mets:fptr FILEID="paint27" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 14">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 13 (Körper oben)">
         <mets:fptr FILEID="paint28" />
       </mets:div>
-      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 15">
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 14 (Schwanz unten)">
         <mets:fptr FILEID="paint29" />
+      </mets:div>
+      <mets:div TYPE="painting_reference" LABEL="Dekorvorlage 15 (Bauch unten)">
+        <mets:fptr FILEID="paint30" />
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part001 (Sockel)">
         <mets:fptr FILEID="stl_clay_part001" />

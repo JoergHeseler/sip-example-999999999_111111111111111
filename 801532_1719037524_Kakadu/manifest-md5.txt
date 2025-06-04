@@ -1,7 +1,5 @@
 18f57ece2961ee8c42c0e372593ec164 data/color_mixtures.xml
 3f9a40eee5848a4b089e4d0e5f140214 data/color_mixtures.xsd
-044190f22b678da51baa5c537dbaa0cf data/meissen_extension.xsd
-d2654128a68175f22329ed1368784c03 data/mets.xml
 f41cc1ae946bec678b811108d7a92bb0 data/clay_parts/clay_part001/processed_meshes/mesh_gltf/mesh.bin
 9f99b702cbce19d2ceb0b74dee0a830d data/clay_parts/clay_part001/processed_meshes/mesh_gltf/mesh.gltf
 0f280d19f39acde156141376317ebf7c data/clay_parts/clay_part001/processed_meshes/mesh_stl/mesh.stl

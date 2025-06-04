@@ -4,12 +4,7 @@ External-Identifier: 801532
 External-Identifier: http://digital.slub-dresden.de/id395202019-18280000
 External-Identifier: urn:nbn:de:bsz:14-db-id395202019-182800001
 Title: Meißner Porzellanfigur "Kakadu" von Johann Joachim Kändler, 1734
-LDP-funder: LDP Sachsen
-LDP-lender: SLUB Dresden
-LDP-collection: Saxonica
-LDP-collection: LDP: SLUB
-LDP-project: LDP: SLUB
-SLUBArchiv-sipVersion: v2025.5
+SLUBArchiv-sipVersion: v2020.1
 SLUBArchiv-externalWorkflow: meissen_porcelain_for_reproduction
 SLUBArchiv-externalId: 801532
 SLUBArchiv-externalIsilId: DE-14

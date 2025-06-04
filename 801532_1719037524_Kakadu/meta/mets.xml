@@ -527,78 +527,91 @@
         <mets:fptr FILEID="stl_clay_part001" />
         <mets:fptr FILEID="gltf_clay_part001" />
         <mets:fptr FILEID="scan_clay_part001" />
+        <mets:note type="dimensions">Höhe: 143,7 mm, Breite: 25,7 mm, Tiefe: 26,2 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 1, 2, 3, 4, 5</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part002 (Sockeldekor vorne)">
         <mets:fptr FILEID="stl_clay_part002" />
         <mets:fptr FILEID="gltf_clay_part002" />
         <mets:fptr FILEID="scan_clay_part002" />
+        <mets:note type="dimensions">Höhe: 42,1 mm, Breite: 172,8 mm, Tiefe: 66,5 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 1</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part003 (Sockeldekor hinten)">
         <mets:fptr FILEID="stl_clay_part003" />
         <mets:fptr FILEID="gltf_clay_part003" />
         <mets:fptr FILEID="scan_clay_part003" />
+        <mets:note type="dimensions">Höhe: 91,6 mm, Breite: 22,9 mm, Tiefe: 83,3 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 2</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part004 (Kralle links)">
         <mets:fptr FILEID="stl_clay_part004" />
         <mets:fptr FILEID="gltf_clay_part004" />
         <mets:fptr FILEID="scan_clay_part004" />
+        <mets:note type="dimensions">Höhe: 78,9 mm, Breite: 186,9 mm, Tiefe: 79,5 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 3, 5</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part005 (Kralle rechts)">
         <mets:fptr FILEID="stl_clay_part005" />
         <mets:fptr FILEID="gltf_clay_part005" />
         <mets:fptr FILEID="scan_clay_part005" />
+        <mets:note type="dimensions">Höhe: 83,9 mm, Breite: 32,1 mm, Tiefe: 37,6 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 4, 5</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part006 (Körper)">
         <mets:fptr FILEID="stl_clay_part006" />
         <mets:fptr FILEID="gltf_clay_part006" />
         <mets:fptr FILEID="scan_clay_part006" />
+        <mets:note type="dimensions">Höhe: 131,5 mm, Breite: 174,4 mm, Tiefe: 87,1 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 5, 6, 7, 8, 9</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part007 (Flügel links)">
         <mets:fptr FILEID="stl_clay_part007" />
         <mets:fptr FILEID="gltf_clay_part007" />
         <mets:fptr FILEID="scan_clay_part007" />
+        <mets:note type="dimensions">Höhe: 135,9 mm, Breite: 100,6 mm, Tiefe: 26,0 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 6</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part008 (Flügel rechts)">
         <mets:fptr FILEID="stl_clay_part008" />
         <mets:fptr FILEID="gltf_clay_part008" />
         <mets:fptr FILEID="scan_clay_part008" />
+        <mets:note type="dimensions">Höhe: 109,7 mm, Breite: 169,9 mm, Tiefe: 79,6 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 7</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part009 (Schwanz)">
         <mets:fptr FILEID="stl_clay_part009" />
         <mets:fptr FILEID="gltf_clay_part009" />
         <mets:fptr FILEID="scan_clay_part009" />
+        <mets:note type="dimensions">Höhe: 61,4 mm, Breite: 134,5 mm, Tiefe: 45,5 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 8</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part010 (Kopf)">
         <mets:fptr FILEID="stl_clay_part010" />
         <mets:fptr FILEID="gltf_clay_part010" />
         <mets:fptr FILEID="scan_clay_part010" />
+        <mets:note type="dimensions">Höhe: 92,0 mm, Breite: 138,3 mm, Tiefe: 15,8 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 9, 10, 11, 12</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part011 (Schnabel)">
         <mets:fptr FILEID="stl_clay_part011" />
         <mets:fptr FILEID="gltf_clay_part011" />
         <mets:fptr FILEID="scan_clay_part011" />
+        <mets:note type="dimensions">Höhe: 74,1 mm, Breite: 107,8 mm, Tiefe: 25,0 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 10</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part012 (Kopffeder 1)">
         <mets:fptr FILEID="stl_clay_part012" />
         <mets:fptr FILEID="gltf_clay_part012" />
         <mets:fptr FILEID="scan_clay_part012" />
+        <mets:note type="dimensions">Höhe: 20,5 mm, Breite: 149,2 mm, Tiefe: 86,5 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 11</mets:note>
       </mets:div>
       <mets:div TYPE="clay_part" LABEL="clay_part013 (Kopffeder 2)">
         <mets:fptr FILEID="stl_clay_part013" />
         <mets:fptr FILEID="gltf_clay_part013" />
         <mets:fptr FILEID="scan_clay_part013" />
+        <mets:note type="dimensions">Höhe: 105,8 mm, Breite: 97,9 mm, Tiefe: 80,8 mm</mets:note>
         <mets:note type="marking">Eingeritzte Nummern: 12</mets:note>
       </mets:div>
     </mets:div>

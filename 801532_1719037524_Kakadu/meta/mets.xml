@@ -104,24 +104,6 @@
             <mods:note>Eintrag im Online-Objektkatalog der Staatlichen Kunstsammlungen Dresden (SKD)</mods:note>
           </mods:relatedItem>
 
-          <mods:relatedItem type="otherFormat">
-            <mods:titleInfo>
-              <mods:title>Rechteeinschätzung gemäß SLUBRights</mods:title>
-            </mods:titleInfo>
-            <mods:location>
-              <mods:url>meta/rights.xml</mods:url>
-            </mods:location>
-          </mods:relatedItem>
-
-          <mods:relatedItem type="otherFormat">
-            <mods:titleInfo>
-              <mods:title>Signifikante Eigenschaften</mods:title>
-            </mods:titleInfo>
-            <mods:location>
-              <mods:url>meta/sigprops_meissen_porcelain_for_reproduction.xml</mods:url>
-            </mods:location>
-          </mods:relatedItem>
-
           <mods:location>
             <mods:physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</mods:physicalLocation>
           </mods:location>

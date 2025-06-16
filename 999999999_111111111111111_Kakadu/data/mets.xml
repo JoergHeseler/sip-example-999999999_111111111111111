@@ -38,10 +38,10 @@
 
           <mods:originInfo>
             <mods:place>
-              <mods:placeTerm type="text">Meißner Porzellanmanufaktur</mods:placeTerm>
+              <mods:placeTerm type="text">Meissener Porzellanmanufaktur</mods:placeTerm>
             </mods:place>
             <mods:dateCreated encoding="w3cdtf">1734</mods:dateCreated>
-            <mods:publisher>Meißner Porzellanmanufaktur</mods:publisher>
+            <mods:publisher>Meissener Porzellanmanufaktur</mods:publisher>
             <mods:purpose>Für die königliche Porzellanmenagerie im Japanischen Palais</mods:purpose>
           </mods:originInfo>
 

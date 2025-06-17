@@ -11,159 +11,203 @@
         <ObjectTypeName>Porzellanfiguren mit zugehörigen Tonteile</ObjectTypeName>
     </Metadata>
     <SignificantProperties>
+        <!-- Geometrie und Proportion -->
         <SignificantProperty>
             <PropertyName>Oberflächenstrukturen</PropertyName>
-            <PropertyExplanation>Feinste Kratzer, Rillen und Unebenheiten sind sichtbar zur detailgetreuen Reproduktion.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt besitzt feinste Oberflächenmerkmale wie Kratzer, Rillen
+                oder Unebenheiten zur detailgetreuen Reproduktion.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Proportionen</PropertyName>
-            <PropertyExplanation>Exakte Proportionen zur Maßhaltigkeit.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt weist exakte Proportionen des Originals auf, um
+                Maßhaltigkeit sicherzustellen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Dimensionsgenauigkeit</PropertyName>
-            <PropertyExplanation>Keine wahrnehmbaren geometrischen Abweichungen bei normalem Betrachtungsabstand.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist frei von wahrnehmbaren geometrischen Abweichungen
+                bei normalem Betrachtungsabstand.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
+
+        <!-- Maß- und Metadokumentation -->
         <SignificantProperty>
             <PropertyName>Maßangaben</PropertyName>
-            <PropertyExplanation>Höhe, Breite und Tiefe dokumentiert.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist mit dokumentierten Maßen (Höhe, Breite, Tiefe)
+                versehen, um Vergleiche mit Originalen oder Repliken zu ermöglichen.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Deskriptive Metadaten</PropertyName>
-            <PropertyExplanation>Typ, Herkunft, Material und Funktion dokumentiert.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist mit beschreibenden Metadaten wie Herkunft, Typ,
+                Funktion oder Material versehen.</PropertyExplanation>
             <PropertyCategory>Context</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
+
+        <!-- Materialität -->
         <SignificantProperty>
             <PropertyName>Scherbenstärke</PropertyName>
-            <PropertyExplanation>Durchschnittliche Wandstärke dokumentiert.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist mit der durchschnittlichen Scherbenstärke
+                dokumentiert.</PropertyExplanation>
             <PropertyCategory>Content</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Scherbenmaterial und -farbe</PropertyName>
-            <PropertyExplanation>Material und Farbton des keramischen Grundkörpers dokumentiert.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt weist dokumentierte Informationen über Scherbenmaterial
+                und -farbe auf.</PropertyExplanation>
             <PropertyCategory>Content</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Glasurbereiche</PropertyName>
-            <PropertyExplanation>Abgrenzung glasierter und unglasierter Zonen nachvollziehbar.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt enthält Angaben zu glasierten und unglasierten
+                Bereichen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Glasurmerkmale</PropertyName>
-            <PropertyExplanation>Dicke, Farbe und Transparenz der Glasur dokumentiert.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt enthält Angaben zu Glasurdicke, -farbe und -transparenz
+                zur originalgetreuen Wiedergabe.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
+
+        <!-- Bemalung und Verzierung -->
         <SignificantProperty>
-            <PropertyName>Farbinformationen</PropertyName>
-            <PropertyExplanation>Dokumentierte Farbmischungen und Verzierungen vorhanden.</PropertyExplanation>
-            <PropertyCategory>Rendering</PropertyCategory>
-            <PropertyProcedure>designated communities</PropertyProcedure>
-        </SignificantProperty>
-        <SignificantProperty>
-            <PropertyName>Positionierung der Bemalung</PropertyName>
-            <PropertyExplanation>Dekorative Elemente korrekt verortet.</PropertyExplanation>
-            <PropertyCategory>Structure</PropertyCategory>
-            <PropertyProcedure>designated communities</PropertyProcedure>
-        </SignificantProperty>
-        <SignificantProperty>
-            <PropertyName>Vollständigkeit der Bemalung</PropertyName>
-            <PropertyExplanation>Alle bemalten Bereiche sind vollständig erfasst.</PropertyExplanation>
-            <PropertyCategory>Rendering</PropertyCategory>
-            <PropertyProcedure>designated communities</PropertyProcedure>
-        </SignificantProperty>
-        <SignificantProperty>
-            <PropertyName>Helligkeit und Kontrast</PropertyName>
-            <PropertyExplanation>Objekt ausreichend beleuchtet und kontrastreich dokumentiert.</PropertyExplanation>
-            <PropertyCategory>Rendering</PropertyCategory>
-            <PropertyProcedure>designated communities</PropertyProcedure>
-        </SignificantProperty>
-        <SignificantProperty>
-            <PropertyName>Farbigkeit</PropertyName>
-            <PropertyExplanation>Das Objekt ist farbig wiedergegeben.</PropertyExplanation>
+            <PropertyName>Farbmischinformationen</PropertyName>
+            <PropertyExplanation>Das Objekt ist mit dokumentierten Farbmischungen verwendeter Farb-
+                und Metallverzierungen versehen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Farbtreue</PropertyName>
-            <PropertyExplanation>Originalgetreue Farbwiedergabe sichergestellt.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt gibt Farben originalgetreu wieder.</PropertyExplanation>
+            <PropertyCategory>Rendering</PropertyCategory>
+            <PropertyProcedure>designated communities</PropertyProcedure>
+        </SignificantProperty>
+        <SignificantProperty>
+            <PropertyName>Positionierung</PropertyName>
+            <PropertyExplanation>Das Objekt besitzt korrekt verortete Bemalungen und dekorative
+                Elemente.</PropertyExplanation>
+            <PropertyCategory>Structure</PropertyCategory>
+            <PropertyProcedure>designated communities</PropertyProcedure>
+        </SignificantProperty>
+        <SignificantProperty>
+            <PropertyName>Vollständigkeit der Bemalung</PropertyName>
+            <PropertyExplanation>Das Objekt zeigt alle bemalten und verzierten Bereiche vollständig.</PropertyExplanation>
+            <PropertyCategory>Rendering</PropertyCategory>
+            <PropertyProcedure>designated communities</PropertyProcedure>
+        </SignificantProperty>
+
+        <!-- Visualisierungsqualität -->
+        <SignificantProperty>
+            <PropertyName>Helligkeit</PropertyName>
+            <PropertyExplanation>Das Objekt ist ausreichend beleuchtet, um alle Details zu erkennen.</PropertyExplanation>
+            <PropertyCategory>Rendering</PropertyCategory>
+            <PropertyProcedure>designated communities</PropertyProcedure>
+        </SignificantProperty>
+        <SignificantProperty>
+            <PropertyName>Kontrast</PropertyName>
+            <PropertyExplanation>Das Objekt weist hohen Kontrast zur klaren Unterscheidung von
+                Formen und Farben auf.</PropertyExplanation>
+            <PropertyCategory>Rendering</PropertyCategory>
+            <PropertyProcedure>designated communities</PropertyProcedure>
+        </SignificantProperty>
+        <SignificantProperty>
+            <PropertyName>Farbigkeit</PropertyName>
+            <PropertyExplanation>Das Objekt ist in Farbe dokumentiert.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Schärfe</PropertyName>
-            <PropertyExplanation>Feinste Merkmale sichtbar dank scharfer Reproduktion.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist scharf wiedergegeben, um feinste Merkmale sichtbar
+                zu machen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Auflösung</PropertyName>
-            <PropertyExplanation>Hohe Auflösung zur Erkennung kleinster Details und Techniken.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt besitzt eine hohe Auflösung zur Erkennung von Techniken
+                wie Pinselduktus, Schichtaufbau oder Reliefwirkung.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Größentreue</PropertyName>
-            <PropertyExplanation>Maßstabstreue Darstellung gewährleistet.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist maßstabstreu dargestellt.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
+
+        <!-- Struktur und Montage -->
         <SignificantProperty>
-            <PropertyName>Markierungen</PropertyName>
-            <PropertyExplanation>Relevante Markierungen zur Montageorientierung dokumentiert.</PropertyExplanation>
+            <PropertyName>Montagemarkierungen</PropertyName>
+            <PropertyExplanation>Das Objekt enthält relevante Markierungen (z. B. Ansatzstriche,
+                Flächenkennzeichnungen) zur Montageorientierung.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Gesamtansicht</PropertyName>
-            <PropertyExplanation>Mehrere Perspektiven sichern vollständigen Eindruck.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist durch mehrere Perspektiven vollständig dokumentiert,
+                sodass ein räumlich abgeschlossener Eindruck für Montage und Reproduktion entsteht.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
+
+        <!-- Technische Reproduzierbarkeit -->
         <SignificantProperty>
             <PropertyName>Druckbarkeit</PropertyName>
-            <PropertyExplanation>Fehlerfreie digitale Modellierung gewährleistet Reproduzierbarkeit.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist so modelliert, dass es ohne Fehler physisch
+                reproduzierbar ist (löcherfrei, korrekte Normalen).</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Skalierbarkeit</PropertyName>
-            <PropertyExplanation>Modell kann für Herstellungsprozesse angepasst werden.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist skalierbar, um Fertigungsprozesse (z. B.
+                Schrumpfung) auszugleichen.</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Anpassbarkeit</PropertyName>
-            <PropertyExplanation>Digitale Bearbeitung ermöglicht individuelle Anpassung.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist digital bearbeitbar für individuelle oder
+                restaurative Anpassungen.</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
+
+        <!-- Prozessdokumentation -->
         <SignificantProperty>
             <PropertyName>Nachvollziehbarkeit</PropertyName>
-            <PropertyExplanation>Bearbeitungsschritte sind dokumentiert und reversibel.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist mit dokumentierten Bearbeitungsschritten versehen,
+                die reversibel und nachvollziehbar sind.</PropertyExplanation>
             <PropertyCategory>Context</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
-            <PropertyName>Digitalisierungstechnologie</PropertyName>
-            <PropertyExplanation>Scanner, Software und Einstellungen dokumentiert.</PropertyExplanation>
+            <PropertyName>Digitalisierung</PropertyName>
+            <PropertyExplanation>Das Objekt ist mit Angaben zur verwendeten
+                Digitalisierungstechnologie (Scanner, Software, Einstellungen, Nachbearbeitung)
+                versehen.</PropertyExplanation>
             <PropertyCategory>Context</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Reproduktionsparameter</PropertyName>
-            <PropertyExplanation>Druckverfahren, Material und Nachbearbeitung dokumentiert.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist mit technischen Daten zur Herstellung (z. B.
+                Druckverfahren, Materialien, Einstellungen, Nachbearbeitung) dokumentiert.</PropertyExplanation>
             <PropertyCategory>Context</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>

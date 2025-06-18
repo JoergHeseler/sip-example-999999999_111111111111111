@@ -12,21 +12,21 @@
     </Metadata>
     <SignificantProperties>
         <!-- Geometrie und Proportion -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Oberflächenstrukturen</PropertyName>
             <PropertyExplanation>Das Objekt besitzt feinste Oberflächenmerkmale wie Kratzer, Rillen
                 oder Unebenheiten zur detailgetreuen Reproduktion.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Proportionen</PropertyName>
             <PropertyExplanation>Das Objekt weist exakte Proportionen des Originals auf, um
                 Maßhaltigkeit sicherzustellen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Dimensionsgenauigkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist frei von wahrnehmbaren geometrischen Abweichungen
                 bei normalem Betrachtungsabstand.</PropertyExplanation>
@@ -35,14 +35,14 @@
         </SignificantProperty>
 
         <!-- Maß- und Metadokumentation -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Maßangaben</PropertyName>
             <PropertyExplanation>Das Objekt ist mit dokumentierten Maßen (Höhe, Breite, Tiefe)
                 versehen, um Vergleiche mit Originalen oder Repliken zu ermöglichen.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Deskriptive Metadaten</PropertyName>
             <PropertyExplanation>Das Objekt ist mit beschreibenden Metadaten wie Herkunft, Typ,
                 Funktion oder Material versehen.</PropertyExplanation>
@@ -51,28 +51,28 @@
         </SignificantProperty>
 
         <!-- Materialität -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Scherbenstärke</PropertyName>
             <PropertyExplanation>Das Objekt ist mit der durchschnittlichen Scherbenstärke
                 dokumentiert.</PropertyExplanation>
             <PropertyCategory>Content</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Scherbenmaterial und -farbe</PropertyName>
             <PropertyExplanation>Das Objekt weist dokumentierte Informationen über Scherbenmaterial
                 und -farbe auf.</PropertyExplanation>
             <PropertyCategory>Content</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Glasurbereiche</PropertyName>
             <PropertyExplanation>Das Objekt enthält Angaben zu glasierten und unglasierten
                 Bereichen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Glasurmerkmale</PropertyName>
             <PropertyExplanation>Das Objekt enthält Angaben zu Glasurdicke, -farbe und -transparenz
                 zur originalgetreuen Wiedergabe.</PropertyExplanation>
@@ -81,27 +81,27 @@
         </SignificantProperty>
 
         <!-- Bemalung und Verzierung -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Farbmischinformationen</PropertyName>
             <PropertyExplanation>Das Objekt ist mit dokumentierten Farbmischungen verwendeter Farb-
                 und Metallverzierungen versehen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Farbtreue</PropertyName>
             <PropertyExplanation>Das Objekt gibt Farben originalgetreu wieder.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Positionierung</PropertyName>
             <PropertyExplanation>Das Objekt besitzt korrekt verortete Bemalungen und dekorative
                 Elemente.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Vollständigkeit der Bemalung</PropertyName>
             <PropertyExplanation>Das Objekt zeigt alle bemalten und verzierten Bereiche vollständig.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
@@ -109,40 +109,40 @@
         </SignificantProperty>
 
         <!-- Visualisierungsqualität -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Helligkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist ausreichend beleuchtet, um alle Details zu erkennen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Kontrast</PropertyName>
             <PropertyExplanation>Das Objekt weist hohen Kontrast zur klaren Unterscheidung von
                 Formen und Farben auf.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Farbigkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist in Farbe dokumentiert.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Schärfe</PropertyName>
             <PropertyExplanation>Das Objekt ist scharf wiedergegeben, um feinste Merkmale sichtbar
                 zu machen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Auflösung</PropertyName>
             <PropertyExplanation>Das Objekt besitzt eine hohe Auflösung zur Erkennung von Techniken
                 wie Pinselduktus, Schichtaufbau oder Reliefwirkung.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Bemalungsvorlage">
             <PropertyName>Größentreue</PropertyName>
             <PropertyExplanation>Das Objekt ist maßstabstreu dargestellt.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
@@ -150,14 +150,14 @@
         </SignificantProperty>
 
         <!-- Struktur und Montage -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Montagemarkierungen</PropertyName>
             <PropertyExplanation>Das Objekt enthält relevante Markierungen (z. B. Ansatzstriche,
                 Flächenkennzeichnungen) zur Montageorientierung.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Porzellanfigur">
             <PropertyName>Gesamtansicht</PropertyName>
             <PropertyExplanation>Das Objekt ist durch mehrere Perspektiven vollständig dokumentiert,
                 sodass ein räumlich abgeschlossener Eindruck für Montage und Reproduktion entsteht.</PropertyExplanation>
@@ -166,21 +166,21 @@
         </SignificantProperty>
 
         <!-- Technische Reproduzierbarkeit -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Druckbarkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist so modelliert, dass es ohne Fehler physisch
                 reproduzierbar ist (löcherfrei, korrekte Normalen).</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Skalierbarkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist skalierbar, um Fertigungsprozesse (z. B.
                 Schrumpfung) auszugleichen.</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Anpassbarkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist digital bearbeitbar für individuelle oder
                 restaurative Anpassungen.</PropertyExplanation>
@@ -189,14 +189,14 @@
         </SignificantProperty>
 
         <!-- Prozessdokumentation -->
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Nachvollziehbarkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist mit dokumentierten Bearbeitungsschritten versehen,
                 die reversibel und nachvollziehbar sind.</PropertyExplanation>
             <PropertyCategory>Context</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Digitalisierung</PropertyName>
             <PropertyExplanation>Das Objekt ist mit Angaben zur verwendeten
                 Digitalisierungstechnologie (Scanner, Software, Einstellungen, Nachbearbeitung)
@@ -204,7 +204,7 @@
             <PropertyCategory>Context</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
-        <SignificantProperty>
+        <SignificantProperty resourceType="Tonteil">
             <PropertyName>Reproduktionsparameter</PropertyName>
             <PropertyExplanation>Das Objekt ist mit technischen Daten zur Herstellung (z. B.
                 Druckverfahren, Materialien, Einstellungen, Nachbearbeitung) dokumentiert.</PropertyExplanation>

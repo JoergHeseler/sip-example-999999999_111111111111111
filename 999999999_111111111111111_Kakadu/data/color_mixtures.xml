@@ -21,7 +21,7 @@
       <decor:component name="Chromoxid" ratio="70%" />
       <decor:component name="Eisenoxid" ratio="30%" />
     </decor:components>
-    <decor:technique>Unterglasurmalerei</decor:technique>
+    <decor:technique>Aufglasurmalerei</decor:technique>
     <decor:applicationAreas>
       <decor:area>Flügelfedern</decor:area>
     </decor:applicationAreas>

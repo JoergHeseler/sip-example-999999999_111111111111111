@@ -1,22 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <decor:colorMixtures xmlns:decor="http://nfdi4culture.de/decor1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://nfdi4culture.de/decor1 color_mixtures.xsd">
 
   <decor:colorMix id="color001">
-    <decor:name>Porzellanweiß warm</decor:name>
-    <decor:components>
-      <decor:component name="Zinnoxid" ratio="90%" />
-      <decor:component name="Antimonoxid" ratio="10%" />
-    </decor:components>
-    <decor:technique>Aufglasurmalerei</decor:technique>
-    <decor:applicationAreas>
-      <decor:area>Federkörper</decor:area>
-    </decor:applicationAreas>
-  </decor:colorMix>
-
-  <decor:colorMix id="color002">
-    <decor:name>Olivgrün dunkel</decor:name>
+    <decor:name>Grün 7 – Chromoxid‑Basis</decor:name>
     <decor:components>
       <decor:component name="Chromoxid" ratio="70%" />
       <decor:component name="Eisenoxid" ratio="30%" />
@@ -27,8 +14,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color003">
-    <decor:name>Eisenrot</decor:name>
+  <decor:colorMix id="color002">
+    <decor:name>Rot 12 – Eisenoxid</decor:name>
     <decor:components>
       <decor:component name="Eisenoxid" ratio="85%" />
       <decor:component name="Siliciumdioxid" ratio="15%" />
@@ -39,20 +26,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color004">
-    <decor:name>Porzellanweiß kühl</decor:name>
-    <decor:components>
-      <decor:component name="Zinnoxid" ratio="95%" />
-      <decor:component name="Quarz" ratio="5%" />
-    </decor:components>
-    <decor:technique>Aufglasurmalerei</decor:technique>
-    <decor:applicationAreas>
-      <decor:area>Bauch</decor:area>
-    </decor:applicationAreas>
-  </decor:colorMix>
-
-  <decor:colorMix id="color005">
-    <decor:name>Kobaltblau</decor:name>
+  <decor:colorMix id="color003">
+    <decor:name>Blau 3 – Kobaltbasis</decor:name>
     <decor:components>
       <decor:component name="Kobaltoxid" ratio="80%" />
       <decor:component name="Zinnoxid" ratio="20%" />
@@ -63,8 +38,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color006">
-    <decor:name>Chromgrün</decor:name>
+  <decor:colorMix id="color004">
+    <decor:name>Grün 9 – Chrom‑Zink‑Basis</decor:name>
     <decor:components>
       <decor:component name="Chromoxid" ratio="90%" />
       <decor:component name="Zinkoxid" ratio="10%" />
@@ -75,8 +50,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color007">
-    <decor:name>Braun</decor:name>
+  <decor:colorMix id="color005">
+    <decor:name>Braun 15 – Mangan‑Eisen‑Basis</decor:name>
     <decor:components>
       <decor:component name="Manganoxid" ratio="60%" />
       <decor:component name="Eisenoxid" ratio="40%" />
@@ -87,8 +62,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color008">
-    <decor:name>Graublau</decor:name>
+  <decor:colorMix id="color006">
+    <decor:name>Blaugrau 6 – Kobalt‑Nickel‑Basis</decor:name>
     <decor:components>
       <decor:component name="Kobaltoxid" ratio="50%" />
       <decor:component name="Nickeloxid" ratio="50%" />
@@ -99,8 +74,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color009">
-    <decor:name>Violett</decor:name>
+  <decor:colorMix id="color007">
+    <decor:name>Violett 4 – Mangan‑Kobalt‑Basis</decor:name>
     <decor:components>
       <decor:component name="Manganoxid" ratio="70%" />
       <decor:component name="Kobaltoxid" ratio="30%" />
@@ -111,8 +86,8 @@
     </decor:applicationAreas>
   </decor:colorMix>
 
-  <decor:colorMix id="color010">
-    <decor:name>Ockergelb</decor:name>
+  <decor:colorMix id="color008">
+    <decor:name>Gelb 11 – Eisen‑Antimon‑Basis</decor:name>
     <decor:components>
       <decor:component name="Eisenoxid" ratio="60%" />
       <decor:component name="Antimonoxid" ratio="40%" />

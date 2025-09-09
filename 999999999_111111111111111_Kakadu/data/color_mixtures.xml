@@ -3,7 +3,7 @@
   xsi:schemaLocation="http://nfdi4culture.de/decor1 color_mixtures.xsd">
 
   <decor:colorMix id="color001">
-    <decor:name>Grün 7 – Chromoxid‑Basis</decor:name>
+    <decor:name>Grün 7 (auf Chromoxid-Basis)</decor:name>
     <decor:components>
       <decor:component name="Chromoxid" ratio="70%" />
       <decor:component name="Eisenoxid" ratio="30%" />
@@ -15,7 +15,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color002">
-    <decor:name>Rot 12 – Eisenoxid</decor:name>
+    <decor:name>Rot 12 (auf Eisenoxid-Basis)</decor:name>
     <decor:components>
       <decor:component name="Eisenoxid" ratio="85%" />
       <decor:component name="Siliciumdioxid" ratio="15%" />
@@ -27,7 +27,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color003">
-    <decor:name>Blau 3 – Kobaltbasis</decor:name>
+    <decor:name>Blau 3 (auf Kobaltbasis)</decor:name>
     <decor:components>
       <decor:component name="Kobaltoxid" ratio="80%" />
       <decor:component name="Zinnoxid" ratio="20%" />
@@ -39,7 +39,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color004">
-    <decor:name>Grün 9 – Chrom‑Zink‑Basis</decor:name>
+    <decor:name>Grün 9 (auf Chrom-Zink-Basis)</decor:name>
     <decor:components>
       <decor:component name="Chromoxid" ratio="90%" />
       <decor:component name="Zinkoxid" ratio="10%" />
@@ -51,7 +51,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color005">
-    <decor:name>Braun 15 – Mangan‑Eisen‑Basis</decor:name>
+    <decor:name>Braun 15 (auf Mangan-Eisen-Basis)</decor:name>
     <decor:components>
       <decor:component name="Manganoxid" ratio="60%" />
       <decor:component name="Eisenoxid" ratio="40%" />
@@ -63,7 +63,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color006">
-    <decor:name>Blaugrau 6 – Kobalt‑Nickel‑Basis</decor:name>
+    <decor:name>Blaugrau 6 (auf Kobalt-Nickel-Basis)</decor:name>
     <decor:components>
       <decor:component name="Kobaltoxid" ratio="50%" />
       <decor:component name="Nickeloxid" ratio="50%" />
@@ -75,7 +75,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color007">
-    <decor:name>Violett 4 – Mangan‑Kobalt‑Basis</decor:name>
+    <decor:name>Violett 4 (auf Mangan-Kobalt-Basis)</decor:name>
     <decor:components>
       <decor:component name="Manganoxid" ratio="70%" />
       <decor:component name="Kobaltoxid" ratio="30%" />
@@ -87,7 +87,7 @@
   </decor:colorMix>
 
   <decor:colorMix id="color008">
-    <decor:name>Gelb 11 – Eisen‑Antimon‑Basis</decor:name>
+    <decor:name>Gelb 11 (auf Eisen-Antimon-Basis)</decor:name>
     <decor:components>
       <decor:component name="Eisenoxid" ratio="60%" />
       <decor:component name="Antimonoxid" ratio="40%" />

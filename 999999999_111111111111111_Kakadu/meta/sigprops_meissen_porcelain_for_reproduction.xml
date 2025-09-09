@@ -144,7 +144,7 @@
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Größentreue</PropertyName>
-            <PropertyExplanation>Das Objekt ist maßstabstreu dargestellt.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist maßstabsgetreu dargestellt.</PropertyExplanation>
             <PropertyCategory>Structure</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
@@ -169,7 +169,7 @@
         <SignificantProperty>
             <PropertyName>Druckbarkeit</PropertyName>
             <PropertyExplanation>Das Objekt ist so modelliert, dass es ohne Fehler physisch
-                reproduzierbar ist (löcherfrei, korrekte Normalen).</PropertyExplanation>
+                reproduzierbar ist (ohne Löcher, korrekte Normalen).</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>

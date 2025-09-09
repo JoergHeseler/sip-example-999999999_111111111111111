@@ -33,7 +33,7 @@
           <xs:complexType>
             <xs:attribute name="thicknessInMillimeter" type="xs:decimal"/>
             <xs:attribute name="color" type="xs:string"/>
-            <xs:attribute name="transparencyPercantage" type="xs:decimal"/>
+            <xs:attribute name="transparencyPercentage" type="xs:decimal"/>
             <xs:attribute name="areas" type="xs:string"/>
           </xs:complexType>
         </xs:element>

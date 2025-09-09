@@ -117,7 +117,7 @@
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Kontrast</PropertyName>
-            <PropertyExplanation>Das Objekt weist hohen Kontrast zur klaren Unterscheidung von
+            <PropertyExplanation>Das Objekt weist einen hohen Kontrast zur klaren Unterscheidung von
                 Formen und Farben auf.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>

@@ -127,7 +127,7 @@
               <meissen:decorationType>Aufglasurfarben</meissen:decorationType>
               <meissen:foot type="closed" />
               <meissen:sherd thicknessInMillimeter="7" color="white" material="porzellan" />
-              <meissen:glaze thicknessInMillimeter="20" color="white" transparencyPercantage="98"
+              <meissen:glaze thicknessInMillimeter="20" color="white" transparencyPercentage="98"
                 areas="gesamte Figur ohne Boden" />
               <meissen:baseMarking>No. 216 (handgeschrieben)</meissen:baseMarking>
               <meissen:purpose>Digitale Repräsentation zur Reproduktion</meissen:purpose>

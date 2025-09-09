@@ -34,7 +34,7 @@
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
 
-        <!-- Maß- und Metadokumentation -->
+        <!-- Maß- und Metadatendokumentation -->
         <SignificantProperty>
             <PropertyName>Maßangaben</PropertyName>
             <PropertyExplanation>Das Objekt ist mit dokumentierten Maßen (Höhe, Breite, Tiefe)

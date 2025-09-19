@@ -290,7 +290,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part001" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part001/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part001/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part002" MIMETYPE="model/stl">
@@ -302,7 +302,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part002" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part002/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part002/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part003" MIMETYPE="model/stl">
@@ -314,7 +314,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part003" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part003/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part003/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part004" MIMETYPE="model/stl">
@@ -326,7 +326,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part004" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part004/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part004/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part005" MIMETYPE="model/stl">
@@ -338,7 +338,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part005" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part005/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part005/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part006" MIMETYPE="model/stl">
@@ -350,7 +350,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part006" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part006/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part006/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part007" MIMETYPE="model/stl">
@@ -362,7 +362,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part007" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part007/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part007/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part008" MIMETYPE="model/stl">
@@ -374,7 +374,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part008" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part008/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part008/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part009" MIMETYPE="model/stl">
@@ -386,7 +386,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part009" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part009/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part009/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part010" MIMETYPE="model/stl">
@@ -398,7 +398,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part010" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part010/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part010/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part011" MIMETYPE="model/stl">
@@ -410,7 +410,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part011" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part011/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part011/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part012" MIMETYPE="model/stl">
@@ -422,7 +422,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part012" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part012/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part012/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="stl_clay_part013" MIMETYPE="model/stl">
@@ -434,7 +434,7 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="scan_clay_part013" MIMETYPE="application/e57">
-        <mets:FLocat xlink:href="clay_parts/clay_part013/processed_scans/scans_e57/scan.e57"
+        <mets:FLocat xlink:href="clay_parts/clay_part013/scans/processed_scans/scans_e57/scan.e57"
           xlink:type="simple" />
       </mets:file>
     </mets:fileGrp>

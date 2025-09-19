@@ -202,22 +202,22 @@
   <mets:fileSec>
     <mets:fileGrp USE="images">
       <mets:file ID="photo10" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000001.tif" xlink:type="simple" />
+        <mets:FLocat xlink:href="overview_photos/photos_tif/00000001.tif" xlink:type="simple" />
       </mets:file>
       <mets:file ID="photo11" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000002.tif" xlink:type="simple" />
+        <mets:FLocat xlink:href="overview_photos/photos_tif/00000002.tif" xlink:type="simple" />
       </mets:file>
       <mets:file ID="photo12" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000003.tif" xlink:type="simple" />
+        <mets:FLocat xlink:href="overview_photos/photos_tif/00000003.tif" xlink:type="simple" />
       </mets:file>
       <mets:file ID="photo13" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000004.tif" xlink:type="simple" />
+        <mets:FLocat xlink:href="overview_photos/photos_tif/00000004.tif" xlink:type="simple" />
       </mets:file>
       <mets:file ID="photo14" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000005.tif" xlink:type="simple" />
+        <mets:FLocat xlink:href="overview_photos/photos_tif/00000005.tif" xlink:type="simple" />
       </mets:file>
       <mets:file ID="photo15" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="full_view_photos/photos_tif/00000006.tif" xlink:type="simple" />
+        <mets:FLocat xlink:href="overview_photos/photos_tif/00000006.tif" xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint16" MIMETYPE="image/tiff">
         <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000001.tif"

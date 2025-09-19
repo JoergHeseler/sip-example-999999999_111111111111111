@@ -83,8 +83,8 @@
         <!-- Bemalung und Verzierung -->
         <SignificantProperty>
             <PropertyName>Farbmischinformationen</PropertyName>
-            <PropertyExplanation>Das Objekt ist mit dokumentierten Farbmischungen verwendeter Farb-
-                und Metallverzierungen versehen.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist mit dokumentierten Zusammensetzungen verwendeter
+                Farb- und Metallverzierungen versehen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
@@ -130,15 +130,17 @@
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Schärfe</PropertyName>
-            <PropertyExplanation>Das Objekt ist scharf wiedergegeben, um feinste Merkmale sichtbar
-                zu machen.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt besitzt eine ausreichend hohe Schärfe, um feinste
+                handwerkliche Merkmale wie Pinselduktus, Schichtaufbau oder Reliefwirkungen zu
+                erkennen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Auflösung</PropertyName>
-            <PropertyExplanation>Das Objekt besitzt eine hohe Auflösung zur Erkennung von Techniken
-                wie Pinselduktus, Schichtaufbau oder Reliefwirkung.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt besitzt eine ausreichend hohe Auflösung, um feinste
+                handwerkliche Merkmale wie Pinselduktus, Schichtaufbau oder Reliefwirkungen zu
+                erkennen.</PropertyExplanation>
             <PropertyCategory>Rendering</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>
@@ -175,8 +177,8 @@
         </SignificantProperty>
         <SignificantProperty>
             <PropertyName>Skalierbarkeit</PropertyName>
-            <PropertyExplanation>Das Objekt ist skalierbar, um Fertigungsprozesse (z. B.
-                Schrumpfung) auszugleichen.</PropertyExplanation>
+            <PropertyExplanation>Das Objekt ist skalierbar, um z. B. Materialschrumpfung beim Brand
+                auszugleichen.</PropertyExplanation>
             <PropertyCategory>Behaviour</PropertyCategory>
             <PropertyProcedure>designated communities</PropertyProcedure>
         </SignificantProperty>

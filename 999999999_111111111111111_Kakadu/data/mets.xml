@@ -60,7 +60,7 @@
             <mods:note type="technical">Dekorationsfotos: painting_reference_photos/, ICC-Profil:
               standard_profile.icc, Farbmischungen: color_mixtures.xml, Beschreibung: Fotografien im
               TIFF-Format, 16bit, mit eingebetteten ICC-Profilen</mods:note>
-            <mods:note type="technical">Übersichtsaufnahmen: painting_reference_photos/, ICC-Profil:
+            <mods:note type="technical">Übersichtsaufnahmen: overview_photos/, ICC-Profil:
               standard_profile.icc, Beschreibung: Fotografien im TIFF-Format, 16bit, mit
               eingebetteten ICC-Profilen</mods:note>
             <mods:note type="technical">Raw Scans: scans/raw_scans/scans_e57, Beschreibung: 13

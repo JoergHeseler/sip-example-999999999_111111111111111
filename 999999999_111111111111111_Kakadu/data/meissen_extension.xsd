@@ -33,7 +33,7 @@
           <xs:complexType>
             <xs:attribute name="thicknessInMillimeter" type="xs:decimal"/>
             <xs:attribute name="color" type="xs:string"/>
-            <xs:attribute name="transparencyPercentage" type="xs:decimal"/>
+            <xs:attribute name="transparencyFraction" type="xs:decimal"/>
             <xs:attribute name="areas" type="xs:string"/>
           </xs:complexType>
         </xs:element>
@@ -154,7 +154,7 @@
               </xs:element>
               <xs:element name="slicerSettings">
                 <xs:complexType>
-                  <xs:attribute name="infillPercentage" type="xs:decimal"/>
+                  <xs:attribute name="infillFraction" type="xs:decimal"/>
                   <xs:attribute name="supports" type="xs:string"/>
                   <xs:attribute name="exposureTimeInSeconds" type="xs:decimal"/>
                 </xs:complexType>

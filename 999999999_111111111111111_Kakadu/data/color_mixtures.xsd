@@ -31,7 +31,7 @@
 
   <xs:complexType name="ComponentType">
     <xs:attribute name="name" type="xs:string" use="required"/>
-    <xs:attribute name="ratio" type="xs:string" use="required"/>
+    <xs:attribute name="ratioFraction" type="xs:decimal" use="required"/>
   </xs:complexType>
 
   <xs:complexType name="ApplicationAreasType">

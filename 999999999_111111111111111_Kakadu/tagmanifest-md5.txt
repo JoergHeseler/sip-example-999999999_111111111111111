@@ -1,6 +1,6 @@
-9004b34ddda96c41f4915639cefcc917  bag-info.txt
-eaa2c609ff6371712f623f5531945b44  bagit.txt
-ca80c047182d774edd68890064a92736  manifest-md5.txt
-0ea99c558cf7130b3c0fe421479d16ac  manifest-sha512.txt
+f6a69313f5ff2d63fd05c94c16f6ad8a  bag-info.txt
+27b1e3d73a2a676e23fa2c62e01b96bb  bagit.txt
+f53cf01834e1747a6bbcfb19c1b2f79c  manifest-md5.txt
+847cc66dc9c7da60a5cf60d58e015cb9  manifest-sha512.txt
 fa9e79551a1c4ea8ad7b4baf414a8ad3  meta/rights.xml
 743b2a67c8a92aa6d96b61964e8540ae  meta/sigprops_meissen_porcelain_for_reproduction.xml

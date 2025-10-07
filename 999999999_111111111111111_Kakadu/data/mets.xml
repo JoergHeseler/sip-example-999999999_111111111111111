@@ -57,11 +57,11 @@
               Figur ohne Boden</mods:note>
             <mods:note type="marking">Markierung auf Sockel: No. 216 (handgeschrieben)</mods:note>
             <mods:note type="purpose">Zweck: Digitale Repräsentation zur Reproduktion</mods:note>
-            <mods:note type="technical">Dekorationsfotos: painting_reference_photos/, ICC-Profil:
-              standard_profile.icc, Farbmischungen: color_mixtures.xml, Beschreibung: Fotografien im
+            <mods:note type="technical">Dekorationsfotos: painting_reference_photos/, 
+              Farbmischungen: color_mixtures.xml, Beschreibung: Fotografien im
               TIFF-Format, 16bit, mit eingebetteten ICC-Profilen</mods:note>
-            <mods:note type="technical">Übersichtsaufnahmen: overview_photos/, ICC-Profil:
-              standard_profile.icc, Beschreibung: Fotografien im TIFF-Format, 16bit, mit
+            <mods:note type="technical">Übersichtsaufnahmen: overview_photos/, 
+              Beschreibung: Fotografien im TIFF-Format, 16bit, mit
               eingebetteten ICC-Profilen</mods:note>
             <mods:note type="technical">Raw Scans: scans/raw_scans/scans_e57, Beschreibung: 13
               Tonteile als rohe E57
@@ -132,11 +132,9 @@
               <meissen:baseMarking>No. 216 (handgeschrieben)</meissen:baseMarking>
               <meissen:purpose>Digitale Repräsentation zur Reproduktion</meissen:purpose>
               <meissen:decorPhotos photoPath="painting_reference_photos/"
-                iccProfile="standard_profile.icc"
                 colorMixtures="color_mixtures.xml"
                 description="Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen" />
               <meissen:overviewPhotos photoPath="painting_reference_photos"
-                iccProfile="standard_profile.icc"
                 description="Fotografien im TIFF-Format, 16bit, mit eingebetteten ICC-Profilen" />
               <meissen:rawScans rawScanSubPath="scans/raw_scans/scans_e57"
                 description="13 Tonteile als rohe E57 vorliegend" />

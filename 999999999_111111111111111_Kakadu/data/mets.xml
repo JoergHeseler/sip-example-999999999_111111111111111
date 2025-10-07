@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/"
   xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mix="http://www.loc.gov/mix/v20"
   xmlns:mods="http://www.loc.gov/mods/v3"
   xmlns:rights="http://slubarchiv.slub-dresden.de/rights1"
   xmlns:meissen="http://nfdi4culture.de/meissen1"
@@ -195,7 +196,19 @@
         </mets:xmlData>
       </mets:mdWrap>
     </mets:rightsMD>
+
+    <mets:techMD ID="TIF_MIX_ICC">
+      <mets:mdWrap MDTYPE="NISOIMG">
+        <mets:xmlData>
+          <mix:mix>
+            <mix:ICCProfileEmbedded>true</mix:ICCProfileEmbedded>
+            <mix:ProfileName>sRGB IEC61966-2.1</mix:ProfileName>
+          </mix:mix>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
   </mets:amdSec>
+
 
   <mets:fileSec>
     <mets:fileGrp USE="images">

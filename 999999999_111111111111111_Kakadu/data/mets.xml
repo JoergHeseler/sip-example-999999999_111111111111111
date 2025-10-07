@@ -256,27 +256,27 @@
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint25" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000010.tif"
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000010.tif"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint26" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000011.tif"
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000011.tif"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint27" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000012.tif"
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000012.tif"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint28" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000013.tif"
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000013.tif"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint29" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000014.tif"
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000014.tif"
           xlink:type="simple" />
       </mets:file>
       <mets:file ID="paint30" MIMETYPE="image/tiff">
-        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/000000015.tif"
+        <mets:FLocat xlink:href="painting_reference_photos/photos_tif/00000015.tif"
           xlink:type="simple" />
       </mets:file>
     </mets:fileGrp>

@@ -13,7 +13,7 @@ SLUBArchiv-hasConservationReason: false
 SLUBArchiv-archivalValueDescription: Archivierung erfolgt laut gesetzlichem
   Auftrag der SLUB Dresden.
 SLUBArchiv-rightsVersion: 1.0
-DateIssued: 1828
+DateIssued: 1734
 Payload-Oxum: 1547948041.171
 Bag-Size: 59.1 MB
 Bagging-Date: 2025-05-26

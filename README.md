@@ -15,7 +15,7 @@ Due to legal and rights-related restrictions, only simplified point cloud and me
 
 ## Related Projects
 
-- [NFDI4Culture 3D Reference Implementations](./../../../../nfdi4culture-3d-reference-implementations)
+- [NFDI4Culture 3D Reference Implementations](./../../../nfdi4culture-3d-reference-implementations)
 
 ## Acknowledgments
 

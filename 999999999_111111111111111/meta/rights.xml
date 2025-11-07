@@ -1,30 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rights:rightsDeclaration xmlns:rights="http://slubarchiv.slub-dresden.de/rights1"
-    xsi:schemaLocation="http://slubarchiv.slub-dresden.de/rights1 https://slubarchiv.slub-dresden.de/slubarchiv/standards/rights/rights1.xsd"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  xsi:schemaLocation="http://slubarchiv.slub-dresden.de/rights1 https://slubarchiv.slub-dresden.de/slubarchiv/standards/rights/rights1.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-  <!-- Rechteinformation zur Porzellanfigur "Kakadu", Johann Joachim Kändler, 1734, Inventarnummer PE 10 -->
+  <!-- Rechteinformation zur Porzellanfigur "Kakadu", Johann Joachim Kändler, 1734, Inventarnummer
+  PE 10 -->
 
   <rights:copyrightStatus>copyrighted</rights:copyrightStatus>
 
   <rights:rightsHolder>
-    <rights:holderName>Porzellanmanufaktur Meissen</rights:holderName>
+    <rights:holderName>Staatliche Porzellan-Manufaktur Meissen GmbH</rights:holderName>
     <rights:holderContact>info@meissen.com</rights:holderContact>
   </rights:rightsHolder>
 
   <rights:permissions>
-    <rights:accessRestriction type="closed">Zugriff ausschließlich für Zwecke der digitalen Langzeitarchivierung. Eine öffentliche Nachnutzung ist nicht vorgesehen. Reproduktionen oder anderweitige Nutzungen bedürfen der Zustimmung des Rechteinhabers.</rights:accessRestriction>
+    <rights:accessRestriction type="closed">Zugriff ausschließlich für Zwecke der digitalen
+      Langzeitarchivierung. Eine öffentliche Nachnutzung ist nicht vorgesehen. Reproduktionen oder
+      anderweitige Nutzungen bedürfen der Zustimmung des Rechteinhabers.</rights:accessRestriction>
   </rights:permissions>
 
   <rights:contract>
     <rights:contractPartner>SLUBArchiv</rights:contractPartner>
     <rights:contractDate>2024-03-01</rights:contractDate>
-    <rights:contractDescription>Das SLUBArchiv ist zuständig für die digitale Langzeitarchivierung der Figur in Abstimmung mit der Porzellanmanufaktur Meissen.</rights:contractDescription>
+    <rights:contractDescription>Das SLUBArchiv ist zuständig für die digitale Langzeitarchivierung
+      der Figur in Abstimmung mit der Staatlichen Porzellan-Manufaktur Meissen GmbH.</rights:contractDescription>
   </rights:contract>
 
   <rights:legalRestrictions>
     <rights:heritageProtection>
-      Das Objekt unterliegt dem Schutz von Kulturgut. Jegliche Nutzung ist mit der Porzellanmanufaktur Meissen abzustimmen.
+      Das Objekt unterliegt dem Schutz von Kulturgut. Jegliche Nutzung ist mit der Staatlichen
+      Porzellan-Manufaktur Meissen GmbH abzustimmen.
     </rights:heritageProtection>
   </rights:legalRestrictions>
 

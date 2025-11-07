@@ -38,10 +38,10 @@
 
           <mods:originInfo>
             <mods:place>
-              <mods:placeTerm type="text">Meissener Porzellanmanufaktur</mods:placeTerm>
+              <mods:placeTerm type="text">Staatliche Porzellan-Manufaktur Meissen GmbH</mods:placeTerm>
             </mods:place>
             <mods:dateCreated encoding="w3cdtf">1734</mods:dateCreated>
-            <mods:publisher>Meissener Porzellanmanufaktur</mods:publisher>
+            <mods:publisher>Staatliche Porzellan-Manufaktur Meissen GmbH</mods:publisher>
             <mods:purpose>Für die königliche Porzellanmenagerie im Japanischen Palais</mods:purpose>
           </mods:originInfo>
 
@@ -108,8 +108,8 @@
             <mods:physicalLocation>Porzellansammlung, Staatliche Kunstsammlungen Dresden, Tiersaal</mods:physicalLocation>
           </mods:location>
 
-          <mods:accessCondition type="use and reproduction">Rechteinhaber: Porzellanmanufaktur
-            Meissen. Nutzung eingeschränkt (geschlossen).</mods:accessCondition>
+          <mods:accessCondition type="use and reproduction">Rechteinhaber: Staatliche
+            Porzellan-Manufaktur Meissen GmbH. Nutzung eingeschränkt (geschlossen).</mods:accessCondition>
 
           <mods:recordInfo>
             <mods:recordContentSource>SLUB Dresden</mods:recordContentSource>
@@ -182,7 +182,7 @@
           <rights:RightsDeclaration xmlns:rights="http://slubarchiv.slub-dresden.de/rights1">
             <rights:RightsBasis>copyrighted</rights:RightsBasis>
             <rights:CopyrightOwner>
-              <rights:OwnerName>Porzellanmanufaktur Meissen</rights:OwnerName>
+              <rights:OwnerName>Staatliche Porzellan-Manufaktur Meissen GmbH</rights:OwnerName>
             </rights:CopyrightOwner>
             <rights:AccessRightsRestriction>geschlossen</rights:AccessRightsRestriction>
             <rights:GrantedRights>

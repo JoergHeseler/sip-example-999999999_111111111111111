@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ObjectType xmlns="http://slubarchiv.slub-dresden.de/sigprops1"
     xsi:schemaLocation="http://slubarchiv.slub-dresden.de/sigprops1 https://slubarchiv.slub-dresden.de/slubarchiv/standards/sigprops/sigprops.xsd"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" language="de">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="de">
     <Metadata>
         <CreationDate>2025-05-21T12:00:00</CreationDate>
         <Creator>Jörg Heseler</Creator>
